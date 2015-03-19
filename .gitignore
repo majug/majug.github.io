@@ -1,0 +1,6 @@
+# ignore generated content
+_site/
+
+# ignore os or editor files/folders
+.DS_Store
+Thumbs.db

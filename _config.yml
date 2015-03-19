@@ -1,0 +1,27 @@
+# Dependencies
+markdown:             redcarpet
+highlighter:          pygments
+
+# Permalinks
+permalink:            pretty
+relative_permalinks:  true
+
+# Setup
+title:                majug
+tagline:              'Mannheim Java User Group'
+description:          'Community der Java Anwender in Mannheim und Rhein Neckar Dreieck'
+url:                  http://majug.de
+baseurl:              /
+
+author:
+  name:               'majug'
+  url:                http://majug.de
+  twitter:            https://twitter.com/majug
+
+paginate:             5
+
+# Custom vars
+version:              2.1.0
+
+github:
+  repo:               https://github.com/poole/hyde
