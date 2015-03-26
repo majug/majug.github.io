@@ -4,19 +4,17 @@ title: Über uns
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  The majug² was founded in 2008 and offers regular talks on Java-related topics about once a month. Every now and then we hold a CodeCamp to hone our coding skills and get to know a new technology.
+  The meetings are usually held at the Mannheim University, after the talk, we have drinks and socialize in a nearby pub. Members come from all around Mannheim from an area which stretches from Karlsruhe to Walldorf, Darmstadt, and Frankfurt.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Team
 
-There are currently two themes built on Poole:
+Markus Buch
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+> Tell something about you
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
+Gregor Trefs
 
 Some fun facts about the setup of this project include:
 
