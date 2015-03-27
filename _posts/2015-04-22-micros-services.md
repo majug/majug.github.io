@@ -5,7 +5,7 @@ title: 'Micros Services: Klein aber oho!'
 
 ### Termin
 
-Der Vortrag findet am 23.04.2015 um 19:00 Uhr in der Uni Mannheim A5, 6 im Raum C013 statt [Anfahrtsbeschreibung](/getting-there).
+Der Vortrag findet am 22.04.2015 um 19:00 Uhr in der Uni Mannheim A5, 6 im Raum C013 statt [Anfahrtsbeschreibung](/getting-there).
 
 ### Abstract
 
