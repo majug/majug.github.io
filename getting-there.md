@@ -5,9 +5,8 @@ title: Anfahrtsbeschreibung
 
 ## Weg zu uns
 
-Die Vorträge finden in den Räumlichkeiten der Universität Mannheim statt. Den Raum geben wir mit der Vortragsankündigung bekannt.
-
-Die Adresse ist:
+Die Vorträge finden in den Räumlichkeiten der Universität Mannheim statt.<br />
+Den Raum geben wir mit der Vortragsankündigung bekannt.
 
 <p class="message">
   Universität Mannheim<br />
@@ -21,7 +20,7 @@ Vom Bahnhof aus erreichst du das Seminargebäude A 5 in ca. 10 Minuten mit Bus u
 
 Die Buslinie Nr. 60 (Richtung Grenadierstraße) fährt alle 20 Minuten vom Hauptbahnhof zum Seminargebäude A 5. Austieg "Universität West".
 
-Alternativ kannst du mit den Straßenbahnlinien 1 (Richtung Schönau) und 5 (Richtung Edingen, Bahnhof) bis zur Haltestelle "Schloss" fahren. Dort verlässt du die Straßenbahn. Auf das Schloss blickend gehst du nach rechts, und dann parallel zum Schloss die Bismarckstraße entlang, vorbei am Seminargebäude A3 und dem Ursulinengymnasium. Nach ca. 500 Metern befindst du dich vor dem Seminargebäude A 5.
+Alternativ kannst du mit den Straßenbahnlinien 1 (Richtung Schönau) und 5 (Richtung Edingen, Bahnhof) bis zur Haltestelle "Schloss" fahren. Dort verlässt du die Straßenbahn. Auf das Schloss blickend gehst du nach rechts, und dann parallel zum Schloss die Bismarckstraße entlang, vorbei am Seminargebäude A 3 und dem Ursulinengymnasium. Nach ca. 500 Metern befindst du dich vor dem Seminargebäude A 5.
 
 ### Mit dem Auto
 
