@@ -5,15 +5,15 @@ title: Anfahrtsbeschreibung
 
 ## Weg zu uns
 
-Die Vorträge finden in den Räumlichkeiten der Universität Mannheim, die Adresse ist:
+Die Vorträge finden in den Räumlichkeiten der Universität Mannheim statt. Den Raum geben wir mit der Vortragsankündigung bekannt.
+
+Die Adresse ist:
 
 <p class="message">
   Universität Mannheim<br />
   A 5, 6<br />
   68161 Mannheim<br />
 </p>
-
-Der Raum wird mit der Vortragsankündigung bekannt gegeben.
 
 ### Mit öffentlichen Verkehrsmitteln
 
