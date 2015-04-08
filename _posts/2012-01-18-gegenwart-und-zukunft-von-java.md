@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '7, 8, 9 … da kann man sich doch freu'n!? Die Gegenwart und mögliche Zukunft von Java'
+title: "7, 8, 9 ... da kann man sich doch freu'n!? Die Gegenwart und mögliche Zukunft von Java"
 ---
 
 ### Termin
