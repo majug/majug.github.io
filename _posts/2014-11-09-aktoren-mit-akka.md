@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aktoren mit Akka
+title: 'Aktoren mit Akka'
 ---
 
 ### Termin

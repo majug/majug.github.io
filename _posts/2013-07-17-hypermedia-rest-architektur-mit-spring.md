@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hypermedia getriebene REST Architektur mit Spring
+title: 'Hypermedia getriebene REST Architektur mit Spring'
 ---
 
 ### Termin

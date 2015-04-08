@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git, Gerrit und Hudson mit Eclipse Mylyn effektiv einsetzen
+title: 'Git, Gerrit und Hudson mit Eclipse Mylyn effektiv einsetzen'
 ---
 
 ### Termin

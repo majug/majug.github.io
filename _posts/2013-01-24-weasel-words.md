@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weasel Words
+title: 'Weasel Words'
 ---
 
 ### Termin

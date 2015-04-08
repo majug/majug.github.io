@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mobile Apps mit GWT & Phonegap in Java
+title: 'Mobile Apps mit GWT & Phonegap in Java'
 ---
 
 ### Termin

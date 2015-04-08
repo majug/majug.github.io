@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Restful Webservices with Play!
+title: 'Restful Webservices with Play!'
 ---
 
 ### Termin

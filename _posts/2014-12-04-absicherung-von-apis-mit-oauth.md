@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Absicherung von APIs mit OAuth 2.0
+title: 'Absicherung von APIs mit OAuth 2.0'
 ---
 
 ### Termin

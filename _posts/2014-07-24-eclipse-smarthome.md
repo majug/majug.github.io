@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eclipse SmartHome und die 5 Arten das Licht einzuschalten
+title: 'Eclipse SmartHome und die 5 Arten das Licht einzuschalten'
 ---
 
 ### Termin

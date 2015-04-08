@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenDolphin: Schöne UIs für Enterprise Applikationen
+title: 'OpenDolphin: Schöne UIs für Enterprise Applikationen'
 ---
 
 ### Termin

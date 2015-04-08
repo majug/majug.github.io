@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Migration from SVN to Git in a real-world environment: A comprehensive retrospective
+title: 'Migration from SVN to Git in a real-world environment: A comprehensive retrospective'
 ---
 
 ### Termin

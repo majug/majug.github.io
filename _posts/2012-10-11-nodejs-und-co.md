@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Node.js & Co
+title: 'Node.js & Co'
 ---
 
 ### Termin

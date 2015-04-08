@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Search Evolution – Von Lucene zu Solr und ElasticSearch
+title: 'Search Evolution – Von Lucene zu Solr und ElasticSearch'
 ---
 
 ### Termin

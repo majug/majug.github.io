@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Matt in drei Iterationen. Lebendiger Architekturentwurf am Beispiel einer Schach-Engine
+title: 'Matt in drei Iterationen. Lebendiger Architekturentwurf am Beispiel einer Schach-Engine'
 ---
 
 ### Termin
