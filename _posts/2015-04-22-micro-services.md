@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Micros Services: Klein aber oho!'
+title: 'Micro Services: Klein aber oho!'
 ---
 
 ### Termin
