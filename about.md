@@ -12,7 +12,7 @@ title: Über uns
 
 Markus Buch
 
-> Tell something about you
+> Markus Buch ist beruflich als Software-Entwickler und Architekt im Umfeld von Java, JavaScript und Web Technologien unterwegs. Privat interessiert er sich für Mobile Development und hackt auch gerne ein paar Zeilen Python.
 
 Wolfgang Schell
 
