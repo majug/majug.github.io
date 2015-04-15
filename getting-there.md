@@ -14,6 +14,9 @@ Den Raum geben wir mit der Vortragsankündigung bekannt.
   68161 Mannheim<br />
 </p>
 
+<iframe height="400px" width="100%" frameborder="0" scrolling="no" src="/map.html"></iframe>
+<small><a href="/map.html" target="_blank">Fullscreen</a></small>
+
 ### Mit öffentlichen Verkehrsmitteln
 
 Vom Bahnhof aus erreichst du das Seminargebäude A 5 in ca. 10 Minuten mit Bus und Straßenbahn. Die Straßenbahn- und Bushaltestellen befinden sich unmittelbar vor dem Hauptausgang des Bahnhofs.
