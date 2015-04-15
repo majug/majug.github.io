@@ -15,6 +15,7 @@ Den Raum geben wir mit der Vortragsankündigung bekannt.
 </p>
 
 <iframe height="400px" width="100%" frameborder="0" scrolling="no" src="/map.html"></iframe>
+<sup><a href="/map.html" target="_blank">Fullscreen</a></sup>
 
 ### Mit öffentlichen Verkehrsmitteln
 
