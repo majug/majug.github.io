@@ -24,7 +24,7 @@ Walery Strauch
 
 Gregor Trefs
 
-> Tell something about you
+> Gregor promoviert an der Universität Mannheim im Bereich Intelligent Micro Services und Recommender Systeme. Mit Java beschäftigt er sich seit seinem 16. Lebensjahr. Privat interresiert er sich für funktionale/hybride Programmiersprachen wie Haskell und Scala.
 
 Have questions or suggestions? Feel free to contact us.
 
