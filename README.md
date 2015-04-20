@@ -18,3 +18,7 @@ Sourcecode for [majug²](http://majug.de) homepage.
 ## License
 
 Open sourced under the [MIT license](LICENSE.md).
+
+## How to contribute
+
+* install [Jekyll](http://jekyllrb.com/docs/installation/) and run `jekyll serve` in the directory containing the cloned repository. The pages will be served under [http://localhost:4000](http://localhost:4000) and can be edited on the fly.
