@@ -16,7 +16,7 @@ Markus Buch
 
 Wolfgang Schell
 
-> Tell something about you
+> Wolfgang ist sehr mehr als 15 Jahren als Software-Entwickler tätig und arbeitet aktuell als Lead Platform Architect bei fluid Operations im Umfeld Cloud Orchestrierung, Linked Data und Semantic Web. Außerdem interessiert er sich für Groovy und die Innereien der JVM.
 
 Walery Strauch
 
