@@ -14,4 +14,4 @@ Der Vortrag richtet sich an Software-Entwickler und -Architekten.
 
 ### Bio
 
-Mark Paluch ist Entwickler, Software-Achtitekt und Agile Coach. Er hat in unterschiedlichen Projekten Erfahrungen mit Clean Architecture gesammelt und möchte dieses Wissen in Form eines Vortrages weitergeben.
+[Mark Paluch](https://twitter.com/mp911de) ist Entwickler, Software-Achtitekt und Agile Coach. Er hat in unterschiedlichen Projekten Erfahrungen mit Clean Architecture gesammelt und möchte dieses Wissen in Form eines Vortrages weitergeben.
