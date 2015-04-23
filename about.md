@@ -8,26 +8,24 @@ title: Über uns
   The meetings are usually held at the Mannheim University, after the talk, we have drinks and socialize in a nearby pub. Members come from all around Mannheim from an area which stretches from Karlsruhe to Walldorf, Darmstadt, and Frankfurt.
 </p>
 
+Wenn du Fragen hast oder mit uns in Kontakt tretten möchtest, kannst du uns gerne eine E-Mail senden an: [info@majug.de](mailto:info@majug.de)
+
 ## Team
 
-Markus Buch
+### Markus Buch
 
-> Markus Buch ist beruflich als Software-Entwickler und Architekt im Umfeld von Java, JavaScript und Web Technologien unterwegs. Privat interessiert er sich für Mobile Development und hackt auch gerne ein paar Zeilen Python.
+Markus Buch ist beruflich als Software-Entwickler und Architekt im Umfeld von Java, JavaScript und Web Technologien unterwegs. Privat interessiert er sich für Mobile Development und hackt auch gerne ein paar Zeilen Python.
 
-Wolfgang Schell
+Twitter: [@elliot2extreme](https://twitter.com/elliot2extreme)
 
-> Wolfgang ist sehr mehr als 15 Jahren als Software-Entwickler tätig und arbeitet aktuell als Lead Platform Architect bei fluid Operations im Umfeld Cloud Orchestrierung, Linked Data und Semantic Web. Außerdem interessiert er sich für Groovy und die Innereien der JVM.
+### Wolfgang Schell
 
-Walery Strauch
+Wolfgang ist sehr mehr als 15 Jahren als Software-Entwickler tätig und arbeitet aktuell als Lead Platform Architect bei fluid Operations im Umfeld Cloud Orchestrierung, Linked Data und Semantic Web. Außerdem interessiert er sich für Groovy und die Innereien der JVM.
 
-> Tell something about you
+### Walery Strauch
 
-Gregor Trefs
+Tell something about you
 
-> Gregor promoviert an der Universität Mannheim im Bereich Intelligent Micro Services und Recommender Systeme. Mit Java beschäftigt er sich seit seinem 16. Lebensjahr. Privat interresiert er sich für funktionale/hybride Programmiersprachen wie Haskell und Scala.
+### Gregor Trefs
 
-## Kontakt
-
-Have questions or suggestions? Feel free to contact us at info ==at== majug ==punkt== de
-
-Thanks for reading!
+Gregor promoviert an der Universität Mannheim im Bereich Intelligent Micro Services und Recommender Systeme. Mit Java beschäftigt er sich seit seinem 16. Lebensjahr. Privat interresiert er sich für funktionale/hybride Programmiersprachen wie Haskell und Scala.

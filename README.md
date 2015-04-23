@@ -2,12 +2,10 @@
 
 Sourcecode for [majug²](http://majug.de) homepage.
 
-
 ## Contents
 
 - [Author](#author)
 - [License](#license)
-
 
 ## Author
 
