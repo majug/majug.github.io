@@ -9,14 +9,19 @@ index: 4
 ### Java User Group Darmstadt
 
 Homepage: [http://jug-da.de](http://jug-da.de)<br />
-Twitter:  [https://twitter.com/JUG_DA](https://twitter.com/JUG_DA)
+Twitter:  [@JUG_DA](https://twitter.com/JUG_DA)
 
 ### Java User Group Karlsruhe
 
 Homepage: [http://jug-karlsruhe.de](http://jug-karlsruhe.de)<br />
-Twitter:  [https://twitter.com/jugka](https://twitter.com/jugka)
+Twitter:  [@jugka](https://twitter.com/jugka)
 
 ### Java User Group Kaiserslautern
 
 Homepage: [http://www.jug-kl.de](http://www.jug-kl.de)<br />
-Twitter:  [https://twitter.com/JUG_KL](https://twitter.com/JUG_KL)
+Twitter:  [@JUG_KL](https://twitter.com/JUG_KL)
+
+### Java User Group Frankfurt
+
+Homepage: [http://jugf.de](http://jugf.de)<br />
+Twitter:  [@jugffm](https://twitter.com/jugffm)
