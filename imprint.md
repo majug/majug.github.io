@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Impressum
+index: 5
 ---
 
 ## Angaben gemäß § 5 TMG:

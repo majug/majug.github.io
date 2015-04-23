@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mitmachen
+index: 1
 ---
 
 ## Für Personen
@@ -17,13 +18,13 @@ Bei Interesse bitte einfach [hier](/about) melden.
 
 ### Orga-Team
 
-Du hast Ideen, wie wir die Majug gestalten sollten oder kennst viele interessante Leute, die Vorträge halten könnten? Dann kannst Du gerne im [Orga-Team](/about) mitmachen. 
+Du hast Ideen, wie wir die Majug gestalten sollten oder kennst viele interessante Leute, die Vorträge halten könnten? Dann kannst Du gerne im [Orga-Team](/about) mitmachen.
 
 Bei Interesse bitte einfach [hier](/about) melden.
 
 ## Für Firmen
 
-Ihr wollt das lokale Java-Ökösystem und die Kommunikation zwischen Entwicklern födern? 
+Ihr wollt das lokale Java-Ökösystem und die Kommunikation zwischen Entwicklern födern?
 
 * Auch als Firma könnt Ihr interessante Vorträge beisteuern (sofern sie nicht zu sehr der Eigenwerbung dienen)
 * Gelegentlich veranstalten wir CodeCamps, die leider nicht an der Uni Mannheim statt finden können. Hier freuen wir uns über die Gastfreundschaft in Räumen mit Internetzugang und gerne auch eine Kleinigkeit zu Essen ;-)

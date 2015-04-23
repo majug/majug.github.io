@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Partner
+index: 4
 ---
 
 ## Befreundete JUGs in der Umgebung

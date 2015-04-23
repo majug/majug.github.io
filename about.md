@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Über uns
+index: 2
 ---
 
 <p class="message">
