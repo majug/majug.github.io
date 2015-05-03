@@ -3,17 +3,19 @@
 
     var initMaps = function () {
         var majug = new google.maps.LatLng(49.487047, 8.457915),
+            center = new google.maps.LatLng(49.489431, 8.457915),
 
             mapOptions = {
                 zoom: 15,
-                center: majug
+                center: center
             },
 
             map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions),
 
             infowindow = new google.maps.InfoWindow({
-                content: 'Uni Mannheim<br>A5, 6<br>68161 Mannheim<br>' +
-                    '<img src="public/img/majugLogoMap.png">'
+                content: '<img src="public/img/majugLogoMap.png">'
+                    + '<div>Uni Mannheim<br>A5, 6<br>68161 Mannheim<br></div>'
+
             }),
 
             marker = new google.maps.Marker({
