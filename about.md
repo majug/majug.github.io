@@ -27,7 +27,9 @@ Twitter: [@jetztgradnet](https://twitter.com/jetztgradnet)
 
 ### Walery Strauch
 
-Tell something about you
+Walery ist freiberuflicher Software-Entwickler im Umfeld von Java. Er ist ein Konferenztourist und Fan von Spring. 
+
+Twitter: [@walery](https://twitter.com/walery)
 
 ### Gregor Trefs
 
