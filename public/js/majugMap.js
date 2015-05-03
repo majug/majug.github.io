@@ -13,7 +13,7 @@
             map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions),
 
             infowindow = new google.maps.InfoWindow({
-                content: '<img src="public/img/majugLogoMap.png">'
+                content: '<img src="public/img/majugLogoMap.png" style="height:96px; width: 100px;">'
                     + '<div>Uni Mannheim<br>A5, 6<br>68161 Mannheim<br></div>'
 
             }),
