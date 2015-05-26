@@ -7,7 +7,9 @@ VERSION:2.0
 PRODID:http://majug.de/
 METHOD:PUBLISH
 {% for post in site.posts limit:10 %}
+
 BEGIN:VEVENT
+
 UID:{{ post.date | date: "%Y%m%d" }}@majug.de
 ORGANIZER;CN="majug² Java User Group Mannheim":MAILTO:info@majug.de
 LOCATION:Uni Mannheim\, A5\, 6 Raum C013\, 68161\, Mannheim
@@ -16,6 +18,8 @@ CLASS:PUBLIC
 DTSTART:{{ post.date | date: "%Y%m%d" }}T190000Z
 DTEND:{{ post.date | date: "%Y%m%d" }}T203000Z
 DTSTAMP:{{ post.date | date: "%Y%m%d" }}T190000Z
+
 END:VEVENT
+
 {% endfor %}
 END:VCALENDAR
