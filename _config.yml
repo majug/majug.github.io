@@ -12,6 +12,7 @@ tagline:              'Mannheim Java User Group'
 description:          'Community der Java Anwender in Mannheim und Rhein Neckar Dreieck'
 url:                  http://majug.de
 baseurl:              /
+events_baseurl:       /events/
 
 author:
   name:               'majug'
@@ -19,6 +20,7 @@ author:
   twitter:            https://twitter.com/majug
 
 paginate:             5
+paginate_path:        '/events/page:num'
 
 # Custom vars
 version:              2.1.0
