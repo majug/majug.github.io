@@ -6,24 +6,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:http://majug.de/
 METHOD:PUBLISH
-BEGIN:VTIMEZONE
-TZID:Europe/Berlin
-X-LIC-LOCATION:Europe/Berlin
-BEGIN:DAYLIGHT
-TZOFFSETFROM:+0100
-TZOFFSETTO:+0200
-TZNAME:CEST
-DTSTART:20020331T020000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-END:DAYLIGHT
-BEGIN:STANDARD
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0100
-TZNAME:CET
-DTSTART:20021027T030000
-RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-END:STANDARD
-END:VTIMEZONE
 {% for post in site.posts limit:10 %}
 BEGIN:VEVENT
 UID:{{ post.date | date: "%Y%m%d" }}@majug.de
@@ -31,9 +13,9 @@ ORGANIZER;CN="majug² Java User Group Mannheim":MAILTO:info@majug.de
 LOCATION:Uni Mannheim\, A5\, 6 Raum C013\, 68161\, Mannheim
 SUMMARY:{{ post.title }}
 CLASS:PUBLIC
-DTSTART;TZID=Europe/Berlin:{{ post.date | date: "%Y%m%d" }}T190000Z
-DTEND;TZID=Europe/Berlin:{{ post.date | date: "%Y%m%d" }}T203000Z
-DTSTAMP;TZID=Europe/Berlin:{{ post.date | date: "%Y%m%d" }}T190000Z
+DTSTART:{{ post.date | date: "%Y%m%d" }}T190000
+DTEND:{{ post.date | date: "%Y%m%d" }}T203000
+DTSTAMP:{{ post.date | date: "%Y%m%d" }}T190000
 END:VEVENT
 {% endfor %}
 END:VCALENDAR
