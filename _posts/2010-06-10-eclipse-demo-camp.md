@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eclipse DemoCamp'
+title: 'Eclipse DemoCamp 2010'
 ---
 
 ### Termin
