@@ -19,6 +19,7 @@ BEGIN:VEVENT
 {% when 2017 %}
 {% when 2016 %}
 {% when 2015 %}
+	WHEN-2015
 	{% if month >= 10 and day >= 25 %}
 		DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
 		DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
@@ -29,6 +30,7 @@ BEGIN:VEVENT
 		DTSTAMP:{{ post.date | date: "%Y%m%d" }}T170000Z
 	{% endif %}
 {% when 2014 %}
+	WHEN-2014
 	{% if month >= 10 and day >= 26 %}
 		DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
 		DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
@@ -39,6 +41,7 @@ BEGIN:VEVENT
 		DTSTAMP:{{ post.date | date: "%Y%m%d" }}T170000Z
 	{% endif %}
 {% else %}
+	WHEN-ELSE
 	DTSTART:{{ post.date | date: "%Y%m%d" }}T190000Z
 	DTEND:{{ post.date | date: "%Y%m%d" }}T203000Z
 	DTSTAMP:{{ post.date | date: "%Y%m%d" }}T190000Z
