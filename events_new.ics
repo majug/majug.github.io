@@ -24,9 +24,9 @@ DTSTART:{{ post.date | date: "%Y%m%d" }}T170000Z
 DTEND:{{ post.date | date: "%Y%m%d" }}T183000Z
 DTSTAMP:{{ post.date | date: "%Y%m%d" }}T170000Z
 {% endif %}
-{{year}}
-{{month}}
-{{day}}
+{{ year }}
+{{ month }}
+{{ day }}
 UID:{{ post.date | date: "%Y%m%d" }}@majug.de
 ORGANIZER;CN="majug² Java User Group Mannheim":MAILTO:info@majug.de
 LOCATION:Uni Mannheim\, A5\, 6 Raum C013\, 68161\, Mannheim
