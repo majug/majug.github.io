@@ -15,11 +15,11 @@ X-WR-CALDESC:Kommende Termine der Mannheimer Java User Group
 {% assign month = post.date | date: "%m" %}
 {% assign day = post.date | date: "%d" %}
 BEGIN:VEVENT
-{% if year == "2015" %}
+{% if year == year %}
 DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
 DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
 DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z
-{% elsif year == "2014" %}
+{% elsif year != year %}
 DTSTART:{{ post.date | date: "%Y%m%d" }}T170000Z
 DTEND:{{ post.date | date: "%Y%m%d" }}T183000Z
 DTSTAMP:{{ post.date | date: "%Y%m%d" }}T170000Z
