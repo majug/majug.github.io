@@ -13,6 +13,7 @@ description:          'Community der Java Anwender in Mannheim und Rhein Neckar 
 url:                  http://majug.de
 baseurl:              /
 events_baseurl:       /events/
+timezone:             Europe/Berlin
 
 author:
   name:               'majug'
