@@ -7,7 +7,7 @@ PRODID:http://majug.de/
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:majug
+X-WR-CALNAME:majug-11-39
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALDESC:Kommende Termine der Mannheimer Java User Group
 {% for post in site.posts limit:10 %}
