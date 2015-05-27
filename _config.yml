@@ -13,7 +13,6 @@ description:          'Community der Java Anwender in Mannheim und Rhein Neckar 
 url:                  http://majug.de
 baseurl:              /
 events_baseurl:       /events/
-timezone:             Europe/Berlin
 
 author:
   name:               'majug'
@@ -27,4 +26,4 @@ paginate_path:        '/events/page:num'
 version:              2.1.0
 
 github:
-  repo:               https://github.com/poole/hyde
+  repo:               https://github.com/majug/majug.github.io
