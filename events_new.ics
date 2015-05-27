@@ -15,18 +15,34 @@ X-WR-CALDESC:Kommende Termine der Mannheimer Java User Group
 {% assign month = post.date | date: "%m" %}
 {% assign day = post.date | date: "%d" %}
 BEGIN:VEVENT
-{% if year == 2015 and month >= 10 %}
-DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
-DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
-DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z
-{% elsif year == 2015 and month <= 10 and day < 25 %}
-DTSTART:{{ post.date | date: "%Y%m%d" }}T170000Z
-DTEND:{{ post.date | date: "%Y%m%d" }}T183000Z
-DTSTAMP:{{ post.date | date: "%Y%m%d" }}T170000Z
-{% endif %}
-{{ year }}
-{{ month }}
-{{ day }}
+{% case year %}
+{% when 2017 %}
+{% when 2016 %}
+{% when 2015 %}
+	{% if month >= 10 and day >= 25 %}
+		DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
+		DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
+		DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z
+	{% else %}
+		DTSTART:{{ post.date | date: "%Y%m%d" }}T170000Z
+		DTEND:{{ post.date | date: "%Y%m%d" }}T183000Z
+		DTSTAMP:{{ post.date | date: "%Y%m%d" }}T170000Z
+	{% endif %}
+{% when 2014 %}
+	{% if month >= 10 and day >= 26 %}
+		DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
+		DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
+		DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z
+	{% else %}
+		DTSTART:{{ post.date | date: "%Y%m%d" }}T170000Z
+		DTEND:{{ post.date | date: "%Y%m%d" }}T183000Z
+		DTSTAMP:{{ post.date | date: "%Y%m%d" }}T170000Z
+	{% endif %}
+{% else %}
+	DTSTART:{{ post.date | date: "%Y%m%d" }}T190000Z
+	DTEND:{{ post.date | date: "%Y%m%d" }}T203000Z
+	DTSTAMP:{{ post.date | date: "%Y%m%d" }}T190000Z
+{% endcase %}
 UID:{{ post.date | date: "%Y%m%d" }}@majug.de
 ORGANIZER;CN="majug² Java User Group Mannheim":MAILTO:info@majug.de
 LOCATION:Uni Mannheim\, A5\, 6 Raum C013\, 68161\, Mannheim
