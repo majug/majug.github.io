@@ -16,9 +16,9 @@ X-WR-CALDESC:Kommende Termine der Mannheimer Java User Group
 {% assign day = post.date | date: "%d" %}
 BEGIN:VEVENT
 {% case year %}
-{% when 2017 %}
-{% when 2016 %}
-{% when 2015 %}
+{% when '2017' %}
+{% when '2016' %}
+{% when '2015' %}
 	WHEN-2015
 	{% if month >= 10 and day >= 25 %}
 		DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 		DTEND:{{ post.date | date: "%Y%m%d" }}T183000Z
 		DTSTAMP:{{ post.date | date: "%Y%m%d" }}T170000Z
 	{% endif %}
-{% when 2014 %}
+{% when '2014' %}
 	WHEN-2014
 	{% if month >= 10 and day >= 26 %}
 		DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
