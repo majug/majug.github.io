@@ -14,4 +14,4 @@ Microservices sind nicht einfach kleine Anwendungen mit REST-Schnittstelle. Der 
 
 ### Bio
 
-Eberhard Wolff [(http://ewolff.com)](http://ewolff.com) arbeitet als freiberuflicher Architekt und Berater. Außerdem ist er Java Champion und Leiter des Technologiebeirats der adesso AG. Sein technologischer Schwerpunkt liegt auf Spring, NoSQL und Cloud. Er ist Autor von über hundert Artikeln und Büchern.
+Eberhard Wolff [(http://ewolff.com)](http://ewolff.com) arbeitet als Fellow bei der innoQ GmbH. Außerdem ist er Java Champion. Sein technologischer Schwerpunkt liegt auf modernen Architektur-Ansätzen - Cloud, Continuous Delivery, DevOps, Microservices oder NoSQL spielen oft eine Rolle. Er ist Autor von über hundert Artikeln und Büchern.
