@@ -6,7 +6,7 @@ state: startpage
 
 ### Termin
 
-Der Vortrag findet am 06.08.2015 um 19:00 Uhr in der Uni Mannheim A5, 6 im Raum C013 statt ()[Anfahrtsbeschreibung](/getting-there)).
+Der Vortrag findet am 06.08.2015 um 19:00 Uhr in der Uni Mannheim A5, 6 im Raum C013 statt ([Anfahrtsbeschreibung](/getting-there)).
 
 <a href="http://www.oio.de/"><img src="/public/img/oio-logo.png" style="float:left; padding-right:10px;" /></a>
 Vielen Dank an die Firma [OIO Orientation in Objects GmbH](http://www.oio.de/), die sich um das leibliche Wohl kümmert.
