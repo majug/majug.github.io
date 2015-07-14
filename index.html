@@ -3,11 +3,6 @@ layout: default
 title: Home
 ---
 
-<p class="message">
-  Alle Termine im majug² Event Feed<br />
-  Alle Termine im majug² iCalendar<br />
-</p>
-
 <div class="posts">
   {% assign startpage_posts = (site.posts | where: "state", "startpage") %}
   {% for post in startpage_posts reversed %}
@@ -27,8 +22,13 @@ title: Home
 
 <div class="related">
 
-  <h2>Terminarchiv</h2>
+  <h2>Termine</h2>
   <p>Eine Übersicht über alle unsere Termine, inklusive der vergangenen Termine findet ihr im Archiv.</p>
   <p><a href="/events">Terminarchiv</a></p>
+  <p>Weiterhin könnt ihr die Termine als RSS Feed und iCalendar abonnieren</p>
+  <p>
+    <a href="/atom.xml">majug² Event Feed</a></br>
+    <a href="/events.ics">majug² iCalendar</a>
+  </p>
 
 </div>
