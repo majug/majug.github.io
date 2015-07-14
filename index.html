@@ -3,6 +3,11 @@ layout: default
 title: Home
 ---
 
+<p class="message">
+  Alle Termine im majug² Event Feed<br />
+  Alle Termine im majug² iCalendar<br />
+</p>
+
 <div class="posts">
   {% assign startpage_posts = (site.posts | where: "state", "startpage") %}
   {% for post in startpage_posts reversed %}
