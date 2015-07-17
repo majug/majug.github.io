@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Über uns
-index: 2
+index: 3
 ---
 
 <p class="message">
@@ -27,7 +27,7 @@ Twitter: [@jetztgradnet](https://twitter.com/jetztgradnet)
 
 ### Walery Strauch
 
-Walery ist freiberuflicher Software-Entwickler im Umfeld von Java. Er ist ein Konferenztourist und Fan von Spring. 
+Walery ist freiberuflicher Software-Entwickler im Umfeld von Java. Er ist ein Konferenztourist und Fan von Spring.
 
 Twitter: [@walery](https://twitter.com/walery)
 

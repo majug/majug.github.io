@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anfahrt
-index: 3
+index: 4
 ---
 
 ## Weg zu uns
