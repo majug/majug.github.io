@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Groovy und Grails - Quo vadis?'
-state: startpage
 ---
 
 ### Termin
