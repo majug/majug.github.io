@@ -9,7 +9,7 @@ state: startpage
 Der Vortrag findet am 06.08.2015 um 19:00 Uhr in der Uni Mannheim A5, 6 im Raum C013 statt ([Anfahrtsbeschreibung](/getting-there)).
 
 <a href="http://www.oio.de/"><img src="/public/img/oio-logo.png" style="float:left; padding-right:10px;" /></a>
-Vielen Dank an die Firma [OIO Orientation in Objects GmbH](http://www.oio.de/), die anschließend die erste Getränkerunde in der Kneipe spendiert! Damit wir das planen können, bitte [hier anmelden](https://docs.google.com/forms/d/1Uo3AXf-XUDVNvtwC7T8AVAFMJ-AdAO7bd24GnNF6vT8/viewform?embedded=true) (bzw. unten auf dieser Seite).
+Vielen Dank an die Firma [OIO Orientation in Objects GmbH](http://www.oio.de/), die anschließend die erste Getränkerunde in der Kneipe spendiert!
 
 ### Abstract
 
@@ -21,5 +21,5 @@ Wir werden uns die wichtigsten und interessantesten Neuerungen der vergangenen R
 
 Falk Sippach hat über 15 Jahre Erfahrung mit Java und ist bei der Mannheimer Firma OIO Orientation in Objects GmbH als Trainer, Software-Entwickler und Projektleiter tätig. Er publiziert regelmäßig in Blogs, Fachartikeln und auf Konferenzen. In seiner Wahlheimat Darmstadt organisiert er mit Anderen die örtliche Java User Group. Falk twittert unter [@sippsack](https://twitter.com/sippsack).
 
-### Anmeldung
-<iframe src="https://docs.google.com/forms/d/1Uo3AXf-XUDVNvtwC7T8AVAFMJ-AdAO7bd24GnNF6vT8/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Wird geladen...</iframe>
+### Material
+* [Folien](/public/slides/Groovy und Grails - Quo Vadis.pdf)
