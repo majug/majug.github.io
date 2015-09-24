@@ -3,7 +3,8 @@
 
     var initMaps = function () {
         var majug = new google.maps.LatLng(49.487047, 8.457915),
-            center = new google.maps.LatLng(49.489431, 8.457915),
+            // center = new google.maps.LatLng(49.489431, 8.457915),
+            center = new google.maps.LatLng(49.489152, 8.465168),
 
             mapOptions = {
                 zoom: 15,
