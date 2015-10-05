@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Java-Microservices praktisch mit Spring Boot und Spring Cloud'
-state: startpage
 ---
 
 ### Termin
