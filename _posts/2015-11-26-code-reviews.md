@@ -18,3 +18,8 @@ Software wird zunehmend komplexer und gleichzeitig werden Release-Zyklen bis hin
 ### Bio
 
 Thorsten Maier arbeitet bei der OIO Orientation in Objects GmbH in Mannheim. Er erschließt kontinuierlich bessere Wege, Software zu entwickeln, indem er selbst als leidenschaftlicher Java-Softwareentwickler unterwegs ist und anderen als Berater, Trainer, Autor sowie Speaker dabei hilft. Trotz seiner Begeisterung für Neues sind ihm Menschen stets wichtiger als Technologien. Sein Hauptaugenmerk liegt daher auf der Frage, wie sich modernste Technologien in gewachsene Umgebungen einbinden lassen und wann man besser auf Bestehendes zurückgreifen sollte.
+
+### Anmeldung
+
+Bitte meldet Euch unverbindlich an, damit wir grob planen können.
+<iframe src="https://docs.google.com/forms/d/1mKFzkjvFEIXoALs-f6VMHjWlJyUkEvbJI1W3tl0VBwc/viewform?embedded=true" width="760" height="650" frameborder="0" marginheight="0" marginwidth="0">Wird geladen...</iframe>
