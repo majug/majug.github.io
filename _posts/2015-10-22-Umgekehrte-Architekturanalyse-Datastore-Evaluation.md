@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Umgekehrte Architekturanalyse - Datastore Evaluation'
-state: startpage
 ---
 
 ### Termin
