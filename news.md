@@ -4,6 +4,13 @@ title: News
 index: 1
 ---
 
+## JavaLand 2016
+
+Vom 8. bis 10. März 2016 setzen die Java-Enthusiasten, Entwickler, Architekten, Strategen, Administratoren und Projektleiter die Besiedlung des JavaLands fort. Seid ihr (wieder) mit dabei? Dann sichert euch noch bis 15. Januar 2016 euer Ticket zum Frühbucherpreis!
+
+Im Phantasialand erwartet euch ein zweitägiges Vortragsprogramm mit nationalen und internationalen Toprednern sowie beste Unterhaltung. Geht mit uns auf Entdeckungsreise, verbessert eure Skills, tauscht euch aus und vor allem: habt Spaß!
+[Jetzt anmelden!](http://www.javaland.eu/go/jug/)
+
 ## W-JAX 2015
 
 <a href="http://www.jax.de/"><img src="/public/img/wjax_2015.gif" style="float:right; padding-left:10px;" /></a>
