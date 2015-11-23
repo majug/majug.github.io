@@ -11,5 +11,5 @@ index: 1
 
 Vom 8. bis 10. März 2016 setzen die Java-Enthusiasten, Entwickler, Architekten, Strategen, Administratoren und Projektleiter die Besiedlung des JavaLands fort. Seid ihr (wieder) mit dabei? Dann sichert euch noch bis 15. Januar 2016 euer Ticket zum Frühbucherpreis!
 
-Im Phantasialand erwartet euch ein zweitägiges Vortragsprogramm mit nationalen und internationalen Toprednern sowie beste Unterhaltung. Geht mit uns auf Entdeckungsreise, verbessert eure Skills, tauscht euch aus und vor allem: habt Spaß!
+Im Phantasialand erwartet euch ein zweitägiges Vortragsprogramm mit nationalen und internationalen Toprednern sowie beste Unterhaltung. Geht mit uns auf Entdeckungsreise, verbessert eure Skills, tauscht euch aus und vor allem: habt Spaß!<br />
 [Jetzt anmelden!](http://www.javaland.eu/go/jug/)
