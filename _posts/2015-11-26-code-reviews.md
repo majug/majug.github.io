@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Effektiver Einsatz von Code-Reviews'
-state: startpage
 ---
 
 ### Termin
