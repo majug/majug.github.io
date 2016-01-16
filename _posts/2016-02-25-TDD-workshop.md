@@ -9,7 +9,7 @@ state: startpage
 Dieser Workshop findet am 25.02.2016 um 19:00 Uhr (Ende zirka 22 Uhr) bei der OIO Orientation in Objects GmbH in der Weinheimer Str. 68 in Mannheim statt ([Anfahrtsbeschreibung](http://www.oio.de/unternehmen/kontakt/anfahrt.htm)).
 
 <a href="http://www.oio.de/"><img src="/public/img/oio-logo.png" style="float:left; padding-right:10px;" /></a>
-Vielen Dank an die Firma [OIO Orientation in Objects GmbH](http://www.oio.de/), die uns ihre Räumlichkeiten zur Verfügung stellt und auch für das leibliche Wohl sorgt.
+Vielen Dank an die Firma [OIO Orientation in Objects GmbH](http://www.oio.de/), die uns ihre Räumlichkeiten zur Verfügung stellt und auch für das leibliche Wohl sorgen wird.
 
 ### Abstract
 
@@ -19,20 +19,8 @@ Vielen Dank an die Firma [OIO Orientation in Objects GmbH](http://www.oio.de/), 
 
 Testgetriebene Softwareentwicklung ist doch eigentlich ein alter Hut. Fragt man aber mal in die Runde von Usergroup-Veranstaltungen, dann hat sich TDD in der Praxis bisher kaum durchgesetzt. Die Gründe dafür sind vielfältig. Aufgrund der fehlenden praktischen Übungsmöglichkeiten fehlt vielen letzten Endes die Erfahrung, wie man beispielsweise im Kontext von Enterprise-Anwendungen sinnvoll testgetrieben vorgeht. 
 
-Zusammen mit TDD-Urgestein Johannes Link (Autor des ersten deutschsprachigen [Buchs zum Thema](http://dpunkt.de/buecher/3379/Softwaretests%20mit%20JUnit.html)) wollen wir uns einerseits die Grundideen in Erinnerung rufen und dann im Pair Programming ausprobieren. Unser Fokus liegt dabei auf praxisnahen Beispielen aus dem Unternehmensumfeld. Es geht weniger um die neuesten Architekturstile und Technologien. Wir wollen vielmehr durch eine gemeinsame Diskussion Ansätze evaluieren, um auch bei einer klassischen X-Schicht-Architektur sowohl in der Präsentations-, als auch Geschäftslogik- und der Persistenzschicht testgetrieben vorzugehen. Die verwendeten Technologien sind dabei zweitrangig.
+Zusammen mit TDD-Urgestein Johannes Link (Autor des ersten deutschsprachigen [Buchs zum Thema](http://dpunkt.de/buecher/3379/Softwaretests%20mit%20JUnit.html)) wollen wir uns zunächst die Grundideen in Erinnerung rufen und dann im Pair Programming ausprobieren. Es geht weniger um die neuesten Architekturstile, Bibliotheken und Programmiersprachen. Wir wollen vielmehr durch eine gemeinsame Diskussion Ansätze evaluieren, um auch bei den klassischen X-Schicht-Architekturen der Unternehmensanwendungen sowohl in der Präsentations-, als auch der Geschäftslogik- und Persistenzschicht testgetrieben vorzugehen. Die verwendeten Technologien sind dabei zweitrangig.
 
-Eure in dieser Richtung bereits gesammelten Erfahrungen sind genauso wichtig wie beispielsweise konkrete Beispiele aus Eurer täglichen Arbeit. Als Sprache setzen wir auf Java. Bitte bringt Euren vorkonfigurierten Rechner (Java, Maven/Gradle, IDE, ggf. schon initiales Projektsetup) mit. Es wird zwar einen Internet-Anschluß geben. Allerdings kommt der ggf. schnell an seine Grenzen, wenn 20 Leute zunächst ihr Maven Repository füllen müssen.
+Eure in dieser Richtung bereits gesammelten Erfahrungen sind genauso wichtig wie beispielsweise konkrete Beispiele aus der täglichen Arbeit. Als Sprache setzen wir auf Java. Bitte bringt Euren vorkonfigurierten Rechner (Java, Maven/Gradle, IDE, ggf. initiales Projektsetup) mit, so dass wir bei der Veranstaltung direkt loslegen können.
 
-Für den praktischen Teil unseres Workshops können folgende Projekte verwendet werden:
-
-* TODO -- Konkrete Aufgabenstellung: Blog oder Webcrawler
-* oder bestehendes Projekt weiterentwickeln
-* https://github.com/spring-projects/spring-petclinic (neues Feature mit TDD hinzufügen)
-* https://github.com/agoncal/agoncal-application-petstore-ee6 (neues Feature mit TDD hinzufügen)
-* https://github.com/grails-samples/grailstwitter (Twitter nachbauen)
-* Blog nachbauen
-* Bibliotheksverwaltung nachbauen
-
-Eigene Ideen sind natürlich auch willkommen. Vorschläge bitte im Vorfeld an [tdd-workshop@majug.de](mailto:tdd-workshop@majug.de) senden
-
-Bitte unbedingt mit Namen und E-Mail-Adresse anmelden. Die Teilnehmerzahl ist begrenzt.
+Die Teilnehmerzahl ist begrenzt. Anmeldungen bitte per E-Mail an falk.sippach<spamschutz>@oio.de.
