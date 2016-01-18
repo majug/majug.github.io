@@ -23,4 +23,4 @@ Zusammen mit TDD-Urgestein Johannes Link (Autor des ersten deutschsprachigen [Bu
 
 Eure in dieser Richtung bereits gesammelten Erfahrungen sind genauso wichtig wie beispielsweise konkrete Beispiele aus der täglichen Arbeit. Als Sprache setzen wir auf Java. Bitte bringt Euren vorkonfigurierten Rechner (Java, Maven/Gradle, IDE, ggf. initiales Projektsetup) mit, so dass wir bei der Veranstaltung direkt loslegen können.
 
-Die Teilnehmerzahl ist begrenzt. Anmeldungen bitte per E-Mail an falk.sippach<spamschutz>@oio.de.
+Die Teilnehmerzahl ist begrenzt. Anmeldungen bitte per E-Mail an tdd-workshop<spamschutz>@majug.de.
