@@ -21,6 +21,6 @@ Testgetriebene Softwareentwicklung ist doch eigentlich ein alter Hut. Fragt man 
 
 Zusammen mit TDD-Urgestein Johannes Link (Autor des ersten deutschsprachigen [Buchs zum Thema](http://dpunkt.de/buecher/3379/Softwaretests%20mit%20JUnit.html)) wollen wir uns zunächst die Grundideen in Erinnerung rufen und dann im Pair Programming ausprobieren. Es geht weniger um die neuesten Architekturstile, Bibliotheken und Programmiersprachen. Wir wollen vielmehr durch eine gemeinsame Diskussion Ansätze evaluieren, um auch bei den klassischen X-Schicht-Architekturen der Unternehmensanwendungen sowohl in der Präsentations-, als auch der Geschäftslogik- und Persistenzschicht testgetrieben vorzugehen. Die verwendeten Technologien sind dabei zweitrangig.
 
-Eure in dieser Richtung bereits gesammelten Erfahrungen sind genauso wichtig wie beispielsweise konkrete Beispiele aus der täglichen Arbeit. Als Sprache setzen wir auf Java. Bitte bringt Euren vorkonfigurierten Rechner (Java, Maven/Gradle, IDE, ggf. initiales Projektsetup) mit, so dass wir bei der Veranstaltung direkt loslegen können.
+Eure in dieser Richtung bereits gesammelten Erfahrungen sind genauso wichtig wie beispielsweise konkrete Beispiele aus der täglichen Arbeit. Als Sprache setzen wir auf Java. Bitte bringt Euren vorkonfigurierten Rechner (Java, Maven/Gradle, IDE, ggf. initiales Projektsetup) mit, so dass wir bei der Veranstaltung direkt loslegen können. Bei inhaltlichen Fragen zum Workshop bitte an [tdd-workshop@majug.de](mailto:tdd-workshop@majug.de) wenden.
 
-Die Teilnehmerzahl ist begrenzt. Anmeldungen bitte per E-Mail an tdd-workshop<spamschutz>@majug.de.
+Die Teilnehmerzahl ist begrenzt. Anmeldungen bitte per E-Mail an [info@oio.de](mailto:info@oio.de).
