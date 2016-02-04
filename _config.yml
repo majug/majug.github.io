@@ -26,3 +26,9 @@ version:              2.1.0
 
 github:
   repo:               https://github.com/majug/majug.github.io
+
+# Allow Posts in the future
+future:               true
+
+# Gems needed
+gems:                 [jekyll-paginate]
