@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'CQRS und EventSourcing'
-state: startpage
 ---
 
 ### Termin
