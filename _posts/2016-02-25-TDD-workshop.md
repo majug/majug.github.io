@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'TDD Workshop'
-state: startpage
 ---
 
 ### Termin
