@@ -27,8 +27,8 @@ Ihrer Anwendung zu beurteilen oder gleich prototypisch durchzuführen.
 
 ### Bio
 
-Nicolai Parlog arbeitet als Java-Entwickler bei Disy [1] in Karlsruhe
-und bloggt[2] nebenbei zu Softwareentwicklung im Allgemeinen und Java
+Nicolai Parlog arbeitet als Java-Entwickler bei [Disy](http://disy.net) in Karlsruhe
+und [bloggt](http://codefx.org) nebenbei zu Softwareentwicklung im Allgemeinen und Java
 im Speziellen. Besonders interessiert ist er an Neuerscheinungen wie
 Java 8 (als es noch neu war), Project Jigsaw in Java 9, Project
 Valhalla in Java 10/11 oder JUnit 5.
@@ -37,6 +37,4 @@ Er hat an der TU Dortmund Informatik und Mathematik studiert und
 anschließend drei Jahre beim Fraunhofer ISI Energiemodelle entwickelt
 bevor er im Herbst 2014 zu Disy wechselte.
 
-[1] http://disy.net
-[2] http://codefx.org
 
