@@ -4,15 +4,20 @@ title: News
 index: 1
 ---
 
-## JavaLand 2016
+## Devoxx UK
 
-<a href="http://www.javaland.eu/go/jug/"><img src="/public/img/javaland_2016.jpg" style="float:right; padding-left:10px;" /></a>
-8\. bis 10. März 2016 | Phantasialand Brühl
+<a href="http://www.devoxx.co.uk/"><img src="/public/img/devoxx_uk.jpg" /></a>
+8\. bis 10. Juni 2016 | Business Design Centre, London
 
-Vom 8. bis 10. März 2016 setzen die Java-Enthusiasten, Entwickler, Architekten, Strategen, Administratoren und Projektleiter die Besiedlung des JavaLands fort. Seid ihr (wieder) mit dabei? Dann sichert euch noch bis 15. Januar 2016 euer Ticket zum Frühbucherpreis!
+The line-up for Devoxx UK is out and we hope you'll agree that it looks pretty amazing. We wouldn't have been able to do it without such amazing JUG support, so as a Thank you we've got a free ticket up for grabs for the majug².
 
-Im Phantasialand erwartet euch ein zweitägiges Vortragsprogramm mit nationalen und internationalen Toprednern sowie beste Unterhaltung. Geht mit uns auf Entdeckungsreise, verbessert eure Skills, tauscht euch aus und vor allem: habt Spaß!<br />
-[Jetzt anmelden!](http://www.javaland.eu/go/jug/)
+Devoxx UK takes place June 8-10th at the Business Design Centre, London, for 3 days of conference sessions, Hands-on-Labs, hacks, quick-fire sessions, hackergarten and parties. We've got a fair few Java Champions and experts joining us, such as Ted Neward, Trisha Gee, Hadi Hariri, Simon Brown, Martin Thompson, Antonio Goncalves, James Weaver, Josh Long, Liz Keogh, Matt Raible and many more. 
+
+They'll be a heap of cool new tech for you to try out - from workshops with humanoid robots to the low down on cool new frameworks for microservices. We've also got tips on a heap of other useful things - from Java Collections to performance testing to how to defend against cybercrime.
+
+The winner will be announced on our event [Jigsaw Walkthrough: Modularisierung einer Java-Anwendung]({% post_url 2016-05-12-Jigsaw-Walkthrough %}). If you don't win, don't worry, we'll still be offering a special discount for majug² members, enter IJUGBL167 to get 10% off all Devoxx UK ticket types.
+
+Please note the Prize does not include travel and accommodation.
 
 <br /><br /><br /><br /><br />
 
