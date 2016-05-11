@@ -15,11 +15,9 @@ Devoxx UK takes place June 8-10th at the Business Design Centre, London, for 3 d
 
 They'll be a heap of cool new tech for you to try out - from workshops with humanoid robots to the low down on cool new frameworks for microservices. We've also got tips on a heap of other useful things - from Java Collections to performance testing to how to defend against cybercrime.
 
-The winner will be announced on our event [Jigsaw Walkthrough: Modularisierung einer Java-Anwendung]({% post_url 2016-05-12-Jigsaw-Walkthrough %}). If you don't win, don't worry, we'll still be offering a special discount for majug² members, enter IJUGBL167 to get 10% off all Devoxx UK ticket types.
+The winner will be announced on our event: [Jigsaw Walkthrough: Modularisierung einer Java-Anwendung]({% post_url 2016-05-12-Jigsaw-Walkthrough %}). If you don't win, don't worry, we'll still be offering a special discount for majug² members, enter IJUGBL167 to get 10% off all Devoxx UK ticket types.
 
 Please note the Prize does not include travel and accommodation.
-
-<br /><br /><br /><br /><br />
 
 ## JAX 2016
 
