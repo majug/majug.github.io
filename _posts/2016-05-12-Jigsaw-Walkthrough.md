@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Jigsaw Walkthrough: Modularisierung einer Java-Anwendung'
-state: startpage
 ---
 
 ### Termin
