@@ -24,4 +24,6 @@ After this talk you will
 
 ### Bio
 
-Artem Kozlov and Gregor Trefs
+Artem Kozlov is a Software Engineer, currently working for metaphacts GmbH in Walldorf. He is mainly interested in Functional Programming languages like Haskell, Scala, etc. and Semantic Web Technologies.
+
+Gregor Trefs is a Research Assistent at the University of Mannheim where he uses Java 8 to develop a platform for semantically integrating business processes. He is always interested in new ways to better cope with challenges in Software Development. 
