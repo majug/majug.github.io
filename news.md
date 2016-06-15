@@ -7,6 +7,7 @@ index: 1
 ## W-JAX 2016
 
 <a href="http://www.jax.de"><img src="/public/img/wjax_2016.jpg"/></a>
+
 7\. bis 11. November 2016
 Westin Grand München
 
