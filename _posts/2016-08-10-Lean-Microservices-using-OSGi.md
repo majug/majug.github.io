@@ -23,5 +23,5 @@ deploy them together and talk using OSGi services locally using the same busines
 
 ### Bio
 
-Christian is an Open Source Architect at Talend. He was the responsible architect for the Services Oriented Architecture of EnBW Trading GmbH (Trading floor of one of Germany’s largest utility companies). 
+Christian Schneider is an Open Source Architect at Talend. He was the responsible architect for the Services Oriented Architecture of EnBW Trading GmbH (Trading floor of one of Germany’s largest utility companies). 
 He specializes in OSGi and practical integration solutions. He was a a regular speaker at several Java conferences in Germany like JAX. W-JAX and at Apachecon.
