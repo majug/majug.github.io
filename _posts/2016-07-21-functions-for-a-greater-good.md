@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Use functions for a greater good'
-state: startpage
 ---
 
 ### Language
