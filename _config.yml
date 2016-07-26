@@ -17,6 +17,7 @@ author:
   name:               'majug'
   url:                http://majug.de
   twitter:            https://twitter.com/majug
+  meetup:             https://www.meetup.com/mannheim-java-usergroup/
 
 paginate:             5
 paginate_path:        '/events/page:num'
