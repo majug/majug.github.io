@@ -8,6 +8,10 @@ state: startpage
 
 The talk will be given in English.
 
+### Registration
+
+Wir freuen uns über Eure Anmeldung (optional und unverbindlich) auf unserer [Meetup-Seite](https://www.meetup.com/mannheim-java-usergroup/events/232862748/).
+
 ### Termin
 
 Der Vortrag findet am 27.10.2016 um 19:00 Uhr in der Uni Mannheim A5, 6 im Raum C013 statt ([Anfahrtsbeschreibung](/getting-there)).
