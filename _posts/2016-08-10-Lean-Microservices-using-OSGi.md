@@ -14,7 +14,7 @@ Wir freuen uns über Eure Anmeldung (optional und unverbindlich) auf unserer [Me
 
 ### Termin
 
-Der Vortrag findet am 10.08.2016 um 19:00 Uhr in der Uni Mannheim A5, 6 im Raum C013 statt ([Anfahrtsbeschreibung](/getting-there)).
+Der Vortrag findet am 10.08.2016 um 19:00 Uhr in der Uni Mannheim A5, 6 im Raum C014 statt ([Anfahrtsbeschreibung](/getting-there)).
 
 ### Abstract
 
