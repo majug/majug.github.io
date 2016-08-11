@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Lean Microservices using OSGi'
-state: startpage
 ---
 
 ### Language
