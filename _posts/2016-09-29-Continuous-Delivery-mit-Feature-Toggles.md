@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Continuous Delivery mit Feature Toggles'
+speaker: 'Kai Hofstetter'
 state: startpage
 ---
 
