@@ -2,7 +2,6 @@
 layout: post
 title: 'hello.kt - putting the fun in your code'
 speaker: 'Alexander Hanschke'
-state: startpage
 ---
 
 ### Language
