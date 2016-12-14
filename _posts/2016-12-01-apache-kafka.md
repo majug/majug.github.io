@@ -2,7 +2,6 @@
 layout: post
 title: 'Apache Kafka'
 speaker: 'Florian Troßbach'
-state: startpage
 ---
 
 ### Language
