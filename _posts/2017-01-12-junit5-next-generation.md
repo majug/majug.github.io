@@ -40,12 +40,7 @@ Nicolai is a thirty year old boy, as the narrator would put it, who
 has found his passion in software development. He constantly reads,
 thinks, and writes about it, and codes for a living as well as for fun.
 
-Nicolai is the editor of SitePoint's Java channel[1], writes a book
-about Project Jigsaw[2], blogs about software development on
-codefx.org[3], and is a long-tail contributor to several open source
-projects. You can hire him[4] for all kinds of things.
-
-[1] http://sitepoint.com/java/
-[2] http://blog.codefx.org/java-module-system-in-action/
-[3] http://codefx.org
-[4] http://blog.codefx.org/hire-nicolai-parlog/
+Nicolai is the editor of [SitePoint's Java channel](http://sitepoint.com/java/), writes a book
+about [Project Jigsaw](http://blog.codefx.org/java-module-system-in-action/) blogs about software development on
+[codefx.org](http://codefx.org), and is a long-tail contributor to several open source
+projects. You can [hire him](http://blog.codefx.org/hire-nicolai-parlog/) for all kinds of things.
