@@ -4,19 +4,12 @@ title: News
 index: 1
 ---
 
-## W-JAX 2016
+## JavaLand 2017
 
-<a href="http://www.jax.de"><img src="/public/img/wjax_2016.jpg"/></a>
+<a href="http://www.javaland.eu"><img src="http://www.javaland.eu/fileadmin/images/2017/2016_08_15-JavaLand_2017-Banner-728x90.jpg"/></a>
 
-7\. bis 11. November 2016
-Westin Grand München
+Vom 28. bis 30. März 2017 wird erneut das Phantasialand in Brühl besiedelt. Mit über 100 Vorträgen und vielen Community-Aktivitäten bleibt für Java-Enthusiasten kein Wunsch unerfüllt! Nun heißt es: zugreifen! Bis zum 30. Januar 2017 sind die Tickets zum günstigen „Early Bird“-Preis erhältlich. iJUG-Mitglieder erhalten zudem rund 20 Prozent Rabatt.
 
-Die W-JAX bildet gemeinsam mit der JAX Europas führende Konferenz-Serie für Enterprise-Technologien, agile Methoden und Software-Architekturen. Gemeinsam mit den begleitenden Business Technology Days und der BigDataCon verleiht sie IT-Professionals aus führenden Unternehmen aller Branchen die entscheidenden Impulse für digitale Wertschöpfung und Innovation.
+Außerdem werden viele Java User Groups vor Ort vertreten sein und sich und ihr Angebot vorstellen. Die <a href="/">Majug</a> ist natürlich auch dabei!
 
-Mehr als 160 international renommierte Speaker geben in rund 180 Vorträgen ihr Erfahrungswissen an die Teilnehmer weiter. Verständlich, praxisnah und erfolgsorientiert. Dabei thematisiert die W-JAX eine große Bandbreite aktueller und zukunftsorientierter Technologien von Java über Scala, Android und Web-Technologien bis hin agilen Entwicklungsmodellen und dem modernen, effizienten Betrieb von IT-Systemen (DevOps).
-
-Der einzigartige Themenmix der Konferenzen verleiht Ihnen den entscheidenden Wissensvorsprung für laufende und zukünftige IT-Projekte. Die professionelle Organisation, hohe technische Kompetenz sowie das besondere Ambiente machen die W-JAX und JAX zu einem einzigartigen Erlebnis, bei dem auch das Networking mit Kollegen und internationalen Experten nicht zu kurz kommt.
-
-Bei Anmeldungen bis 23. Juni profitieren Teilnehmer vom Frühbucherangebot und erhalten ein Tablet kostenfrei.
-
-Alle Informationen zur JAX finden sich unter: [www.jax.de](http://www.jax.de)
+Alle Informationen zur JAX finden sich unter: [www.javaland.eu](http://www.javaland.eu)
