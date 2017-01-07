@@ -36,3 +36,9 @@ Twitter: [@walery](https://twitter.com/walery)
 Gregor promoviert an der Universität Mannheim im Bereich Intelligent Micro Services und Recommender Systeme. Mit Java beschäftigt er sich seit seinem 16. Lebensjahr. Privat interresiert er sich für funktionale/hybride Programmiersprachen wie Haskell und Scala.
 
 Twitter: [@gtrefs](https://twitter.com/gtrefs)
+
+### Mark Paluch
+
+Mark ist Software Craftsman, Spring Data Engineer bei Pivotal, arbeitet als Mitglied der CDI 2.0 (JSR365) Expert Group an der nächsten Version der Spec und entwickelt den lettuce Redis Treiber. Sein Fokus liegt auf Software-Architektur, Spring und Redis.
+
+Twitter: [@mp911de](https://twitter.com/mp911de)
