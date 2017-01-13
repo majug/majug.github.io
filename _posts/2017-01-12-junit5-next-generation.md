@@ -2,7 +2,6 @@
 layout: post
 title: 'JUnit 5: Next Generation Testing on the JVM'
 speaker: 'Nicolai Parlog'
-state: startpage
 ---
 
 ### Language
