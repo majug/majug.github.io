@@ -5,6 +5,8 @@ speaker: 'Steffen Gebert'
 state: startpage
 ---
 
+# Der Vortrag muss leider kurzfristig verschoben werden!!! Der neue Termin wird noch bekannt gegeben!
+
 ### Language
 
 The talk will be given in German. On demand the language can be switched to English.  Slides are in English.
@@ -15,7 +17,7 @@ Wir freuen uns über Eure Anmeldung (optional und unverbindlich) auf unserer [Me
 
 ### Termin
 
-Der Vortrag findet am 02.02.2017 um 19:00 Uhr in der Uni Mannheim A5, 6 im Raum C013 statt ([Anfahrtsbeschreibung](/getting-there)).
+Der Vortrag findet am ~~02.02.2017~~ (neuer Termin steht noch aus!) um 19:00 Uhr in der Uni Mannheim A5, 6 im Raum C013 statt ([Anfahrtsbeschreibung](/getting-there)).
 
 ### Abstract
 
