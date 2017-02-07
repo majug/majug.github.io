@@ -2,7 +2,6 @@
 layout: post
 title: 'Jenkins Pipelines'
 speaker: 'Steffen Gebert'
-state: startpage
 ---
 
 # Der Vortrag muss leider kurzfristig verschoben werden!!! Der neue Termin wird noch bekannt gegeben!
