@@ -12,4 +12,15 @@ Vom 28. bis 30. März 2017 wird erneut das Phantasialand in Brühl besiedelt. Mi
 
 Außerdem werden viele Java User Groups vor Ort vertreten sein und sich und ihr Angebot vorstellen. Die <a href="/">Majug</a> ist natürlich auch dabei!
 
-Alle Informationen zur JAX finden sich unter: [www.javaland.eu](http://www.javaland.eu)
+Alle Informationen zur JavaLand finden sich unter: [www.javaland.eu](http://www.javaland.eu)
+
+## JAX 2017
+
+Vom 8. bis 12. Mai 2017                                                                                             
+Rheingoldhalle Mainz
+
+JAX - Die Konferenz für Java, Architektur- und Software-Innovation
+
+Die JAX ist die Konferenz für moderne Java- und Web-Entwicklung, für Software-Architektur und innovative Infrastruktur. Bekannte Experten vermitteln hier ihr Erfahrungswissen – verständlich, praxisnah und erfolgsorientiert. Ein besonderer Fokus liegt auf Java Core- und Enterprise-Technologien, Microservices, dem Spring-Ökosystem, JavaScript, Continuous Delivery und DevOps.
+
+Alle Informationen zur JAX finden sich unter: [jax.de](http://jax.de)
