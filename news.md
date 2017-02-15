@@ -3,6 +3,15 @@ layout: page
 title: News
 index: 1
 ---
+## ObjektForum in Mannheim: JUnit 5
+
+Datum: 20.02.2017 ab 18.30
+
+In diesem Vortrag berichtet Marc Philipp über die Gründe für die Neuentwicklung von JUnit 5 und stellt die neue, stark modulare Architektur vor. Diese wurde mit besonderem Fokus auf Erweiterbarkeit und Integrierbarkeit in Tools entworfen. Die Erweiterbarkeit wird insbesondere erreicht durch eine architektonische Trennung der Ausführungsumgebung (JUnit Platform) von der eigentlichen TestEngine (JUnit Jupiter Engine).
+
+Das ObjektForum ist ein wichtiger Ort des Austausches von Informationen, Erfahrungen und Visitenkarten. Aus der Taufe gehoben wurde es 1995 in Karlsruhe, inzwischen gibt es auch OF-Veranstaltungen in Frankfurt, Stuttgart, München und Mannheim.
+
+Weitere Informationen unter [ObjektForum Mannheim](https://www.andrena.de/event/objektforum-mannheim).
 
 ## JavaLand 2017
 
