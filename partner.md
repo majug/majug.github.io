@@ -4,6 +4,16 @@ title: Partner
 index: 5
 ---
 
+## Unterstützer und Sponsoren
+
+### OIO Orientation in Objects GmbH
+
+<img src="/public/img/oio-logo.png" />
+OIO stellt regelmäßig Räumlichkeiten für unsere Workshops zur Verfügung und sorgt währendessen für unser leibliches Wohl.
+
+Homepage: [http://www.oio.de](http://www.oio.de)<br />
+Twitter:  [@oio_braintime](https://twitter.com/oio_braintime)
+
 ## Befreundete JUGs in der Umgebung
 
 ### Java User Group Darmstadt
