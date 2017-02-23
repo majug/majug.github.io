@@ -14,6 +14,14 @@ OIO stellt regelmäßig Räumlichkeiten für unsere Workshops zur Verfügung und
 Homepage: [http://www.oio.de](http://www.oio.de)<br />
 Twitter:  [@oio_braintime](https://twitter.com/oio_braintime)
 
+### bitExpert AG
+
+<img src="/public/img/bitexpert-logo.png" />
+bitExpert stellt Räumlichkeiten für unsere Veranstaltungen zur Verfügung und sorgt währendessen für unser leibliches Wohl.
+
+Homepage: [http://www.bitexpert.de](http://www.bitexpert.de)<br />
+Twitter:  [@bitExpert](https://twitter.com/bitExpert)
+
 ## Befreundete JUGs in der Umgebung
 
 ### Java User Group Darmstadt
