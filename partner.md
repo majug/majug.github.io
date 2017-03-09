@@ -6,10 +6,10 @@ index: 5
 
 ## Unterstützer und Sponsoren
 
-### andrena Objects AG
+### andrena objects 
 
 <img src="/public/img/andrena-logo.png" />
-andrena Objects stellt Räumlichkeiten für unsere Workshops zur Verfügung und sorgt währenddessen für unser leibliches Wohl.
+andrena objects stellt Räumlichkeiten für unsere Workshops zur Verfügung und sorgt währenddessen für unser leibliches Wohl.
  
 Homepage: [https://www.andrena.de](https://www.andrena.de)<br />
 Twitter:  [@andrenaobjects](https://twitter.com/andrenaobjects)
