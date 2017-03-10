@@ -2,7 +2,6 @@
 layout: post
 title: 'DDD Workshop'
 speaker: 'Michael Plöd'
-state: startpage
 ---
 
 ### Termin
