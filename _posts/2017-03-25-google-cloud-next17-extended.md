@@ -25,4 +25,4 @@ After the keynote of the first day, we will watch together a breakout session re
 
 We will meet at bitExpert AG in Mannheim and enjoy Google talks with drinks and snacks.
 
-Leave a feedback: https://goo.gl/WamRRq
+Leave a feedback: [https://goo.gl/WamRRq](https://goo.gl/WamRRq)
