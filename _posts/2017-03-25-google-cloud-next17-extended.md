@@ -2,7 +2,6 @@
 layout: post
 title: 'Google Cloud Next17 Extended'
 speaker: 'Google Cloud Next17 Extended'
-state: startpage
 ---
 
 ### Registration
