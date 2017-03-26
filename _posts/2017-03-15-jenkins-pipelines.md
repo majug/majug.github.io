@@ -2,7 +2,6 @@
 layout: post
 title: 'Jenkins Pipelines'
 speaker: 'Steffen Gebert'
-state: startpage
 ---
 
 ### Language
