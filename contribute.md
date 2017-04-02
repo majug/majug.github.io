@@ -10,7 +10,7 @@ index: 2
 
 Du möchtest einen Vortrag über Dein Lieblingsthema im Java-Umfeld halten? Dann bist Du bei uns richtig!
 
-Vorträge finden üblicherweise an einem Mitwwoch oder Donnerstag um 19 Uhr statt und dauern ca. 90 Minuten. Danach gehen wir noch in eine der umliegenden Kneipen für den gemütlichen Teil (als Sprecher bist Du hierbei i.d.R. ein begehrter Ansprechpartner für weitere Fragen, aber die Teilnahme hierbei ist natürlich optional ;-)).
+Vorträge finden üblicherweise an einem Mittwoch oder Donnerstag um 19 Uhr statt und dauern ca. 90 Minuten. Danach gehen wir noch in eine der umliegenden Kneipen für den gemütlichen Teil (als Sprecher bist Du hierbei i.d.R. ein begehrter Ansprechpartner für weitere Fragen, aber die Teilnahme hierbei ist natürlich optional ;-)).
 
 Ein notwendiger Hinweis: da die Majug über keine Einkünfte verfügt, können wir für Vorträge kein Honorar zahlen. Das gleiche gilt für Reisekosten, hier können wir bei Bedarf aber versuchen, eine Firma zu finden, die diese übernimmt.
 
