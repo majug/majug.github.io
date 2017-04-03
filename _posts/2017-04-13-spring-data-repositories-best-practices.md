@@ -5,6 +5,10 @@ speaker: 'Thomas Darimont'
 state: startpage
 ---
 
+### Language
+
+The talk will be held in English.
+
 ### Registration
 
 Wir freuen uns über Eure Anmeldung (optional und unverbindlich) auf unserer [Meetup-Seite](https://www.meetup.com/mannheim-java-usergroup/events/237170404/).
