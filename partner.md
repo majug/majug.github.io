@@ -6,6 +6,14 @@ index: 5
 
 ## Unterstützer und Sponsoren
 
+### techdev Solutions 
+
+<img src="/public/img/techdev-logo.png" />
+techdev stellt Essen und Getränke für unsere Vorträge und Workshops.
+
+Homepage: [https://techdev.de](https://techdev.de)<br />
+Twitter:  [@techdev_de](https://twitter.com/techdev_de)
+
 ### andrena objects 
 
 <img src="/public/img/andrena-logo.png" />
