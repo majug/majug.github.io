@@ -3,25 +3,15 @@ layout: page
 title: News
 index: 1
 ---
-## ObjektForum in Mannheim: JUnit 5
+## ObjektForum in Mannheim: Nexus - Wenn das Gedränge zu groß wird 
 
-Datum: 20.02.2017 ab 18.30
+Datum: 24.04.2017 ab 18.30
 
-In diesem Vortrag berichtet Marc Philipp über die Gründe für die Neuentwicklung von JUnit 5 und stellt die neue, stark modulare Architektur vor. Diese wurde mit besonderem Fokus auf Erweiterbarkeit und Integrierbarkeit in Tools entworfen. Die Erweiterbarkeit wird insbesondere erreicht durch eine architektonische Trennung der Ausführungsumgebung (JUnit Platform) von der eigentlichen TestEngine (JUnit Jupiter Engine).
+Wir starten mit einer kurzen Einführung in das Scaled Professional Scrum Framework Nexus von Scrum.org. Das ist die Theorie. Diese Nexus-Theorie möchten wir, gemeinsam mit Euch, mit Erfahrungen aus dem wahren Leben vergleichen. Dazu berichten wir von dem, was wir in „Real Life“-Projekten – und davon haben wir inzwischen einige begleitet – beobachtet haben. Zusammen mit Euren Erfahrungen erarbeiten wir gemeinsam die offenen Fragen und klären, wo in der Praxis die Herausforderungen liegen können. Besonders den Nexus-Meetings wollen wir etwas Zeit widmen. Unser Ziel besteht daran, am Ende eine gemeinsame Vorstellung davon zu haben, ob und wie wir mit Nexus das Gedränge nicht zu groß werden lassen.
 
 Das ObjektForum ist ein wichtiger Ort des Austausches von Informationen, Erfahrungen und Visitenkarten. Aus der Taufe gehoben wurde es 1995 in Karlsruhe, inzwischen gibt es auch OF-Veranstaltungen in Frankfurt, Stuttgart, München und Mannheim.
 
-Weitere Informationen unter [ObjektForum Mannheim](https://www.andrena.de/event/objektforum-mannheim).
-
-## JavaLand 2017
-
-<a href="http://www.javaland.eu"><img src="http://www.javaland.eu/fileadmin/images/2017/2016_08_15-JavaLand_2017-Banner-728x90.jpg"/></a>
-
-Vom 28. bis 30. März 2017 wird erneut das Phantasialand in Brühl besiedelt. Mit über 100 Vorträgen und vielen Community-Aktivitäten bleibt für Java-Enthusiasten kein Wunsch unerfüllt! Nun heißt es: zugreifen! Bis zum 30. Januar 2017 sind die Tickets zum günstigen „Early Bird“-Preis erhältlich. iJUG-Mitglieder erhalten zudem rund 20 Prozent Rabatt.
-
-Außerdem werden viele Java User Groups vor Ort vertreten sein und sich und ihr Angebot vorstellen. Die <a href="/">Majug</a> ist natürlich auch dabei!
-
-Alle Informationen zur JavaLand finden sich unter: [www.javaland.eu](http://www.javaland.eu)
+Weitere Informationen unter [ObjektForum Mannheim](https://www.andrena.de/event/objektforum-mannheim-263).
 
 ## JAX 2017
 
