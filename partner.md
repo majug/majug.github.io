@@ -6,6 +6,14 @@ index: 5
 
 ## Unterstützer und Sponsoren
 
+### VersioEye GmbH 
+
+<img src="/public/img/versioneye-logo.png" />
+VersionEye stellt Räumlichkeiten für unsere Workshops zur Verfügung und sorgt währenddessen für unser leibliches Wohl.
+
+Homepage: [https://www.versioneye.com](https://www.versioneye.com)<br />
+Twitter:  [@VersionEye](https://twitter.com/VersionEye)
+
 ### techdev Solutions 
 
 <img src="/public/img/techdev-logo.png" />
