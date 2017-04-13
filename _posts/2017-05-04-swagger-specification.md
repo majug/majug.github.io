@@ -5,6 +5,10 @@ speaker: 'Christian Schneider'
 state: startpage
 ---
 
+### Registration
+
+Wir freuen uns über Eure Anmeldung (optional und unverbindlich) auf unserer [Meetup-Seite](https://www.meetup.com/mannheim-java-usergroup/events/239185867/).
+
 ### Termin
 
 Der Vortrag findet am 04.05.2017 um 19:00 Uhr in der Uni Mannheim A5, 6 im Raum C013 statt [Anfahrtsbeschreibung](/getting-there).
