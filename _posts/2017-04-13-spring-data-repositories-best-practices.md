@@ -2,7 +2,6 @@
 layout: post
 title: 'Spring Data Repositories - Best Practices'
 speaker: 'Thomas Darimont'
-state: startpage
 ---
 
 ### Language
