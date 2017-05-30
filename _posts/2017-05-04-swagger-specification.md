@@ -2,7 +2,6 @@
 layout: post
 title: 'Swagger first, make REST APIs great again.'
 speaker: 'Christian Schneider'
-state: startpage
 ---
 
 ### Registration
