@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ''
+speaker: ''
 state: startpage
 ---
 
