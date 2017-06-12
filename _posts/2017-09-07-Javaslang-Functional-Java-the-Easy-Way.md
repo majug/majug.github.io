@@ -2,6 +2,7 @@
 layout: post
 title: Vavr (previously known as Javaslang) - Functional Java the Easy Way 
 speaker: David Schmitz
+location: "Mafinex Teil C, Julius-Hatry-Straße 1, 68163 Mannheim-Lindenhof" 
 state: startpage
 ---
 
