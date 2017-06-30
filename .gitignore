@@ -4,3 +4,5 @@ _site/
 # ignore os or editor files/folders
 .DS_Store
 Thumbs.db
+.idea/
+*.iml
