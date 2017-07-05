@@ -15,7 +15,7 @@ The talk will be given in English.
 
 ### Termin
 
-Der Vortrag findet am 05.07.2017 um 19:00 Uhr in der Mafinex, in Kooperation mit der [MongoDB Mannheim User Group](https://www.meetup.com/de-DE/Mannheim-MongoDB-User-Group/) statt.
+Der Vortrag findet am 05.07.2017 um 19:00 Uhr in der MAFINEX, Bauteil C, Raum C4 im Erdgeschoss, in Kooperation mit der [MongoDB Mannheim User Group](https://www.meetup.com/de-DE/Mannheim-MongoDB-User-Group/) statt.
 
 ### Abstract
 
