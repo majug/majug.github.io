@@ -1,6 +1,6 @@
 # Dependencies
 highlighter:          rouge
-markdown:             kramdown 
+markdown:             kramdown
 
 # Permalinks
 permalink:            pretty
@@ -10,7 +10,7 @@ title:                majug
 tagline:              'Mannheim Java User Group'
 description:          'Community der Java Anwender in Mannheim und Rhein Neckar Dreieck'
 url:                  http://majug.de
-baseurl:              /
+#baseurl:              /
 events_baseurl:       /events/
 
 author:
