@@ -2,7 +2,6 @@
 layout: post
 title: 'Serverless Computing'
 speaker: 'Niko Köbler'
-state: startpage
 ---
 
 ### Registration
