@@ -2,7 +2,6 @@
 layout: post
 title: 'Spring Data MongoDB Deep Dive'
 speaker: 'Mark Paluch'
-state: startpage
 ---
 
 ### Registration
