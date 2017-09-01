@@ -6,8 +6,8 @@ location: "Mafinex Teil C, Julius-Hatry-Straße 1, 68163 Mannheim-Lindenhof"
 state: startpage
 ---
 ```diff
-- Dieser Vortrag wurde verschoben. Ein Ersatztermin wird bald bekannt gegeben.
-- This talk is postponed. A new date will be announced shortly.
+- Vortrag wurde verschoben. Ein Ersatztermin wird bekannt gegeben.
+- Talk is postponed. A new date will be announced.
 ```
 
 ### Registration
