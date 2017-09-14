@@ -1,14 +1,10 @@
 ---
 layout: post
-title: Vavr (previously known as Javaslang) - Functional Java the Easy Way 
+title: Vavr - Functional Java the Easy Way 
 speaker: David Schmitz
 location: "Mafinex Teil C, Julius-Hatry-Straße 1, 68163 Mannheim-Lindenhof" 
 state: startpage
 ---
-```diff
-- Vortrag wurde verschoben. Ein Ersatztermin wird bekannt gegeben.
-- Talk is postponed. A new date will be announced.
-```
 
 ### Registration
 
@@ -16,7 +12,7 @@ Wir freuen uns über Eure Anmeldung (optional und unverbindlich) auf unserer [Me
 
 ### Termin
 
-Der Vortrag findet ~~am 07.09.2017 um 19:00 Uhr~~ **Ersatztermin folgt** im Mafinex Teil C, Julius-Hatry-Straße 1, 68163 Mannheim-Lindenhof im Besprechungsraum C4 statt ([Anfahrtsbeschreibung](http://www.mafinex.de/wp-content/uploads/2013/08/Verkehrsfuehrung_2-BA_ab-Sommer-2013.pdf)).
+Der Vortrag findet am 15.11.2017 um 19:00 Uhr im Mafinex Teil C, Julius-Hatry-Straße 1, 68163 Mannheim-Lindenhof im Besprechungsraum C4 statt ([Anfahrtsbeschreibung](http://www.mafinex.de/wp-content/uploads/2013/08/Verkehrsfuehrung_2-BA_ab-Sommer-2013.pdf)).
 
 ### Info
 
