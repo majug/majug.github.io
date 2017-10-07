@@ -2,7 +2,6 @@
 layout: post
 title: 'Datenbankzentrische Anwendungen mit Spring Boot und jOOQ'
 speaker: 'Michael Simons'
-state: startpage
 ---
 
 ### Registration
