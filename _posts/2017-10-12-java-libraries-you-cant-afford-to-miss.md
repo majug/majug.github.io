@@ -2,7 +2,6 @@
 layout: post
 title: 'Java Libraries You Can’t Afford to Miss'
 speaker: 'Andres Almiray'
-state: startpage
 ---
 
 ### Registration
