@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Agile Java Day (aka 50 JUG tour)'
+title: 'Agile Java Day (aka Venkat's 50 JUG tour)'
 speaker: 'Venkat Subramaniam'
 state: startpage
 ---
@@ -20,7 +20,7 @@ The talk will be held in English.
 
 ### Abstract
 
-Venkat Subramaniam is an widely known author and speaker at many international conferences. As part of his world-wide [50 JUG tour](http://blog.agiledeveloper.com/2017/06/a-small-man-with-big-aspiration-tour.html) he will stop in Mannheim (the only stop in Germany!) for a day of teaching on Java topics. 
+Venkat Subramaniam is a widely known author and speaker at many international conferences. As part of his world-wide [50 JUG tour](http://blog.agiledeveloper.com/2017/06/a-small-man-with-big-aspiration-tour.html) he will come to Mannheim (the only stop in Germany!) for a day of teaching on Java topics. 
 We are looking forward to have him presenting the following topics:
 
 #### Exploring Java 9
