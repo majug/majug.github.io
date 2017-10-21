@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Agile Java Day (aka Venkat's 50 JUG tour)'
+title: 'Agile Java Day (aka Venkat&apos;s 50 JUG tour)'
 speaker: 'Venkat Subramaniam'
 state: startpage
 ---
