@@ -15,7 +15,7 @@ Die W-JAX ist die Konferenz für moderne Java- und Web-Entwicklung, für Softwar
 
 Alle Infos auf [jax.de](http://jax.de)
 
-## JVM-Con - Die Konferenz für Java-
+## JVM-Con - Die Konferenz für Java-Entwickler
 
 <a href="http://jvm-con.de/?utm_source=Kooperation&utm_medium=Banner&utm_campaign=20171019_jugmannheim&utm_nooverride=1"><img src="/public/img/jvm-con-logo.png"/></a>
 
