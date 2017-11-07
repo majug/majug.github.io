@@ -8,7 +8,7 @@ state: startpage
 
 ### Registration
 
-Wir freuen uns über Eure Anmeldung (optional und unverbindlich) auf unserer [Meetup-Seite](https://www.meetup.com/de-DE/mannheim-java-usergroup/events/239102697/).
+Wir freuen uns über Eure Anmeldung (optional und unverbindlich) auf unserer [Meetup-Seite](https://www.meetup.com/de-DE/mannheim-java-usergroup/events/243357347/).
 
 ### Termin
 
