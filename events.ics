@@ -17,22 +17,10 @@ X-WR-CALDESC:Kommende Termine der Mannheimer Java User Group
 	{% assign month = month | plus: 0 %}
 	{% assign day = post.date | date: "%d" %}
 	{% assign day = day | plus: 0 %}
-{% endcapture %}{% assign cache = nil %}BEGIN:VEVENT{% case year %}{% when 2016 %}{% if month == 3 day < 27 %}
+{% endcapture %}{% assign cache = nil %}BEGIN:VEVENT{% case year %}{% when 2019 %}{% if month == 3 day < 31 %}
 DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
 DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
-DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z{% elsif month == 10 and day >= 30 %}
-DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
-DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
-DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z{% elsif month > 10 or month < 3 %}
-DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
-DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
-DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z{% else %}
-DTSTART:{{ post.date | date: "%Y%m%d" }}T170000Z
-DTEND:{{ post.date | date: "%Y%m%d" }}T183000Z
-DTSTAMP:{{ post.date | date: "%Y%m%d" }}T170000Z{% endif %}{% when 2015 %}{% if month == 3 day < 29 %}
-DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
-DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
-DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z{% elsif month == 10 and day >= 25 %}
+DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z{% elsif month == 10 and day >= 27 %}
 DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
 DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
 DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z{% elsif month > 10 or month < 3 %}
@@ -41,10 +29,22 @@ DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
 DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z{% else %}
 DTSTART:{{ post.date | date: "%Y%m%d" }}T170000Z
 DTEND:{{ post.date | date: "%Y%m%d" }}T183000Z
-DTSTAMP:{{ post.date | date: "%Y%m%d" }}T170000Z{% endif %}{% when 2014 %}{% if month == 3 day < 30 %}
+DTSTAMP:{{ post.date | date: "%Y%m%d" }}T170000Z{% endif %}{% when 2018 %}{% if month == 3 day < 25 %}
 DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
 DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
-DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z{% elsif month == 10 and day >= 26 %}
+DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z{% elsif month == 10 and day >= 28 %}
+DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
+DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
+DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z{% elsif month > 10 or month < 3 %}
+DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
+DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
+DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z{% else %}
+DTSTART:{{ post.date | date: "%Y%m%d" }}T170000Z
+DTEND:{{ post.date | date: "%Y%m%d" }}T183000Z
+DTSTAMP:{{ post.date | date: "%Y%m%d" }}T170000Z{% endif %}{% when 2017 %}{% if month == 3 day < 26 %}
+DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
+DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
+DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z{% elsif month == 10 and day >= 29 %}
 DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
 DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
 DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z{% elsif month > 10 or month < 3 %}
