@@ -3,7 +3,6 @@ layout: post
 title: Vavr - Functional Java the Easy Way 
 speaker: David Schmitz
 location: "Mafinex Teil C, Julius-Hatry-Straße 1, 68163 Mannheim-Lindenhof" 
-state: startpage
 ---
 
 ### Registration
