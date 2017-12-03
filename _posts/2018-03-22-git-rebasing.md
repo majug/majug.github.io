@@ -11,7 +11,7 @@ Wir freuen uns über Eure Anmeldung (optional und unverbindlich) auf unserer [Me
 
 ### Termin
 
-Der Vortrag findet am 23.03.2018 um 19:00 Uhr in der Uni Mannheim A5, 6 im Raum C013 statt ([Anfahrtsbeschreibung](/getting-there)).
+Der Vortrag findet am 22.03.2018 um 19:00 Uhr in der Uni Mannheim A5, 6 im Raum C013 statt ([Anfahrtsbeschreibung](/getting-there)).
 
 ### Abstract
 
