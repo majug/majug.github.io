@@ -16,7 +16,7 @@ Buche schon jetzt Dein Ticket. Bis 18. Januar 2018 sicherst Du Dir attraktive Fr
 
 <a href="https://www.jax.de"><img src="/public/img/jax.png"/></a>
 
-23.. - 27. April 2018 in  Mainz<br />
+23. - 27. April 2018 in  Mainz<br />
 Expo: 24. - 26. April 2018
 
 Die JAX ist die Konferenz für moderne Java- und Web-Entwicklung, für Software-Architektur und innovative Infrastruktur. Bekannte Experten vermitteln hier ihr Erfahrungswissen – verständlich, praxisnah und erfolgsorientiert.
