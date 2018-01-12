@@ -9,7 +9,7 @@ state: startpage
 
 Participation requires registration via our [Meetup page](https://www.meetup.com/mannheim-java-usergroup/events/244411248/).
 
-Around lunch time we will get Pizza and drinks.
+Around lunch time we will get Pizza and drinks. We'd like to thank our <a href="#sponsors">sponsors</a> for supporting us. It wouldn't be possible to make this event happen without andrena objects, fluidops, Liveperson, OIO and Pivotal. 
 
 ### Termin
 
@@ -47,3 +47,15 @@ We all have seen our share of bad code and some really good code as well. What a
 He has trained and mentored thousands of software developers in the US, Canada, Europe, and Asia, and is a regularly-invited speaker at several international conferences. Venkat helps his clients effectively apply and succeed with sustainable agile practices on their software projects.
 
 Venkat is a (co)author of multiple technical books, including the 2007 Jolt Productivity award winning book Practices of an Agile Developer. You can find a list of his books at [agiledeveloper.com](https://www.agiledeveloper.com). You can reach him by email at [venkats@agiledeveloper.com](mailto:venkats@agiledeveloper.com) or on twitter at [@venkat_s](https://twitter.com/venkat_s).
+
+### Sponsors
+
+We'd like to thank our sponsors for supporting us. It wouldn't be possible to make this event happen without andrena objects, fluidops, Liveperson, OIO and Pivotal.
+
+<a href="https://www.liveperson.com/de" target="_blank"><img src="/public/img/liveperson.png"  style="display: inline; padding: 10px; border: 0px;" /></a>
+<a href="https://www.oio.de" target="_blank"><img src="/public/img/oio-logo.png"  style="display: inline; padding: 10px; border: 0px;" /></a>
+<a href="https://www.fluidops.com/de/" target="_blank"><img src="/public/img/fluidops-logo.png"  style="display: inline; padding: 10px; border: 0px;" /></a>
+<a href="https://www.andrena.de" target="_blank"><img src="/public/img/andrena-logo.png" style="display: inline; padding: 10px; border: 0px;"/></a>
+<a href="https://www.pivotal.io" target="_blank"><img src="/public/img/pivotal-logo.png" style="display: inline; padding: 10px; vertical-align: top; border: 0px;" /></a>
+
+<p style="clear: both"> </p>
