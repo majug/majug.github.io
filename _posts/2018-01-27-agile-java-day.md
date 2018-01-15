@@ -3,6 +3,7 @@ layout: post
 title: 'Agile Java Day (aka Venkat&apos;s 50 JUG tour)'
 speaker: 'Venkat Subramaniam'
 state: startpage
+location: "C-Hub, Hafenstraße 25-27, 68159 Mannheim" 
 ---
 
 ### Registration
