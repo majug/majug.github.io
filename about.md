@@ -40,4 +40,4 @@ Twitter: [@gtrefs](https://twitter.com/gtrefs)
 
 Mark ist Software Craftsman, Spring Data Engineer bei Pivotal, arbeitet als Mitglied der CDI 2.0 (JSR365) Expert Group an der nächsten Version der Spec und entwickelt den lettuce Redis Treiber. Sein Fokus liegt auf Software-Architektur, Spring und Redis.
 
-ewitter: [@mp911de](https://twitter.com/mp911de)
+Twitter: [@mp911de](https://twitter.com/mp911de)
