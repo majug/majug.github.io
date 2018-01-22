@@ -49,6 +49,19 @@ He has trained and mentored thousands of software developers in the US, Canada, 
 
 Venkat is a (co)author of multiple technical books, including the 2007 Jolt Productivity award winning book Practices of an Agile Developer. You can find a list of his books at [agiledeveloper.com](https://www.agiledeveloper.com). You can reach him by email at [venkats@agiledeveloper.com](mailto:venkats@agiledeveloper.com) or on twitter at [@venkat_s](https://twitter.com/venkat_s).
 
+
+### Agenda
+
+* _8:30 to 9:00_ Reception
+* _9:00 to 9:15_ Introduction
+* _9:15 to 10:45_ Exploring Java 9
+* _10:45 to 11:00_ Break
+* _11:00 to 12:30_ From Functional to Reactive Programming
+* _12:30 to 13:45_ Lunch
+* _13:45 to 15:15_ The Power and Perils of Parallel Streams
+* _15:15 to 15:30_ Break
+* _15:30 to 17:00_ Twelve Ways to Make Code Suck Less
+
 ### Sponsors
 
 We'd like to thank our sponsors for supporting us. It wouldn't be possible to make this event happen without andrena objects, fluidops, Liveperson, OIO and Pivotal.
