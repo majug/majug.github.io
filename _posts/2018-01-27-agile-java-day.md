@@ -12,9 +12,9 @@ Participation requires registration via our [Meetup page](https://www.meetup.com
 
 Around lunch time we will get Pizza and drinks. We'd like to thank our <a href="#sponsors">sponsors</a> for supporting us. It wouldn't be possible to make this event happen without andrena objects, fluidops, Liveperson, OIO and Pivotal. 
 
-### Termin
+### Date
 
-Saturday, Jan 27th 2018 from 09h until ca. 16:30h (4 talks at 90 mins each) at [C-Hub](http://c-hub.de/) in [Hafenstraße 25-27, 68159 Mannheim](https://www.google.com/maps/search/?api=1&query=Hafenstra%C3%9Fe+25+%E2%80%93+27%2C+Mannheim%2C+de).
+Saturday, Jan 27th 2018 from 9:00 to 17:00 (4 talks at 90 mins each) at [C-Hub](http://c-hub.de/) in [Hafenstraße 25-27, 68159 Mannheim](https://www.google.com/maps/search/?api=1&query=Hafenstra%C3%9Fe+25+%E2%80%93+27%2C+Mannheim%2C+de).
 
 ### Language
 
