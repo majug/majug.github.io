@@ -2,7 +2,6 @@
 layout: post
 title: "Refactoring mit monadischen Transaktionen"
 speaker: Gregor Trefs 
-state: startpage
 ---
 
 ### Registration
