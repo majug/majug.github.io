@@ -45,7 +45,8 @@ At a rate of 1 tip per minute I'll take you through some core and advanced featu
 
 ### Bio
 
-[Roel Spilker](https://twitter.com/rspilker)
+[Roel Spilker](https://twitter.com/rspilker) is a technology evangelist at TOPdesk. He's been a professional java programmer and teacher since 1999. Roel has been a fan of compile-time checking. Together with Reinier Zwitserloot he is the inventor of Project Lombok, a compiler/IDE plugin to bring the java programming language into the next decennium.
+
 [Reinier Zwitserloot](https://twitter.com/surial) has been interested in programming language evolution ever since he started working with Java professionally 15 years ago. As a result, together with Roel Spilker he is the inventor of Project Lombok, a compiler/IDE plugin to bring the java programming language into the next decennium.
 
 [Joep Weijers](https://twitter.com/joepweijers) is a Build Master at TOPdesk with a keen interest in delivering quality software continuously. He loves playing around with Jenkins Pipelines, Selenium, Docker and keeps in touch with his inner developer by educating his colleagues on testable Java code.
