@@ -2,7 +2,6 @@
 layout: post
 title: "Refactoring to Java 10, 40 Jenkins Features and Plugins You Wished You Had Known!"
 speaker: Roel Spilker, Reinier Zwitserloot, Joep Weijers
-state: startpage
 ---
 
 ### Registration
