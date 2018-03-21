@@ -5,6 +5,8 @@ speaker: Steffen Schluff
 state: startpage
 ---
 
+# Der Vortrag muss leider kurzfristig wegen Krankheit verschoben werden! Der neue Termin wird bekannt gegeben!
+
 ### Registration
 
 Wir freuen uns über Eure Anmeldung (optional und unverbindlich) auf unserer [Meetup-Seite](https://www.meetup.com/de-DE/mannheim-java-usergroup/events/245824290/).
