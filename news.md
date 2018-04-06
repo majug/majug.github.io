@@ -4,28 +4,31 @@ title: News
 index: 1
 ---
 
-## W-JAX – Die Konferenz für Java, Architektur- und Software-Innovation.
+## JavaLand 2018
 
-<a href="http://www.jax.de"><img src="/public/img/wjax_2017.jpg"/></a>
+<a href="https://www.javaland.eu"><img src="/public/img/javaland_2018.jpg"/></a>
 
-Vom 6. bis 10. Novemeber 2017<br />
-München
+Vom 13. bis zum 15. März 2018 findet die fünfte Auflage der JavaLand statt. Es erwartet Dich ein spannendes Vortragsprogramm mit internationalen Top-Rednern und eine Menge Aktivitäten von der Community. Beim anschließenden Schulungstag kannst Du Deine Kenntnisse noch etwas vertiefen.
 
-Die W-JAX ist die Konferenz für moderne Java- und Web-Entwicklung, für Software-Architektur und innovative Infrastruktur. Bekannte Experten vermitteln hier ihr Erfahrungswissen – verständlich, praxisnah und erfolgsorientiert. Ein besonderer Fokus liegt auf Java Core- und Enterprise-Technologien, Microservices, dem Spring-Ökosystem, JavaScript, Continuous Delivery und DevOps.
+Buche schon jetzt Dein Ticket. Bis 18. Januar 2018 sicherst Du Dir attraktive Frühbucherpreise.
 
-Alle Infos auf [jax.de](http://jax.de)
+## JAX 2018 Die Konferenz für Java, Architektur- und Software-Innovation
 
-## JVM-Con - Die Konferenz für Java-Entwickler
+<a href="https://www.jax.de"><img src="/public/img/jax.png"/></a>
 
-<a href="http://jvm-con.de/?utm_source=Kooperation&utm_medium=Banner&utm_campaign=20171019_jugmannheim&utm_nooverride=1"><img src="/public/img/jvm-con-logo.png"/></a>
+Vom 23. - 27. April 2018 in  Mainz<br />
+Expo: 24. - 26. April 2018
 
-Vom 28. bis 29. November 2017<br />
-Köln
+Die JAX ist die Konferenz für moderne Java- und Web-Entwicklung, für Software-Architektur und innovative Infrastruktur. Bekannte Experten vermitteln hier ihr Erfahrungswissen – verständlich, praxisnah und erfolgsorientiert.
 
-Die JVM-Con feiert Ende November im Pullmann Cologne Hotel in Köln ihre Premiere. Bei der JVM-Con geht es um die Java Virtual Machine und die damit zusammen hängenden JVM-Sprachen. Die Konferenz ist in zwei Thementracks unterteilt zu Java Server & Frameworks Core so wie Client & Languages. Die JVM-Con richtet sich an Java-Programmierer, Operatoren, QA-Mitarbeiter und IT-Architekten.
+Ein besonderer Fokus liegt auf Java Core- und Enterprise-Technologien, Microservices, dem Spring-Ökosystem, JavaScript, Continuous Delivery und DevOps.
 
-Präsentiert wird die JVM-Con von der web & mobile developer und der Fortbildungsplattform developer-media aus dem Verlagshaus Neue Mediengesellschaft Ulm mbH.
+Das bietet die JAX 2018:<br />
+200+ Workshops, Sessions und Keynotes<br />
+170+ Internationale Speaker<br />
+18+ themenspezifische Special Days<br />
+Expo namhafter IT-Unternehmen
 
-majug Special € 200,- Rabatt auf alle Tickets mit dem Code: JVM17jugmannheim [Zur Anmeldung](https://www.eventbrite.com/e/jvm-con-die-konferenz-fur-java-entwickler-tickets-36052328485?aff=jugmannheim)
+Parallel zur JAX finden die Business Technology Days und die Big Data Con statt, die Sie beim Erwerb eines Tickets kostenfrei mitbesuchen können.
 
-Alle Infos auf [jvm-con.de](http://jvm-con.de/?utm_source=Kooperation&utm_medium=Banner&utm_campaign=20171019_jugmannheim&utm_nooverride=1)
+Für weitere Information über die JAX, Specials und mehr besuchen Sie unsere Website: [jax.de](https://jax.de)

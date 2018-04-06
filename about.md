@@ -32,8 +32,7 @@ Walery ist freiberuflicher Software-Entwickler im Umfeld von Java. Er ist ein Ko
 Twitter: [@walery](https://twitter.com/walery)
 
 ### Gregor Trefs
-
-Gregor promoviert an der Universität Mannheim im Bereich Intelligent Micro Services und Recommender Systeme. Mit Java beschäftigt er sich seit seinem 16. Lebensjahr. Privat interresiert er sich für funktionale/hybride Programmiersprachen wie Haskell und Scala.
+Gregor ist freiberuflicher Softwareentwickler. Sein erstes Programm war ein in BASIC geschriebenes Text Adventure. Inzwischen schreibt er Fachartikel und hält Vorträge auf Konferenzen und User Groups.
 
 Twitter: [@gtrefs](https://twitter.com/gtrefs)
 

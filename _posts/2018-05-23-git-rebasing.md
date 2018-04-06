@@ -7,11 +7,11 @@ state: startpage
 
 ### Registration
 
-Wir freuen uns über Eure Anmeldung (optional und unverbindlich) auf unserer [Meetup-Seite](https://www.meetup.com/de-DE/mannheim-java-usergroup/).
+Wir freuen uns über Eure Anmeldung (optional und unverbindlich) auf unserer [Meetup-Seite](https://www.meetup.com/de-DE/mannheim-java-usergroup/events/245824290/).
 
 ### Termin
 
-Der Vortrag findet am 22.03.2018 um 19:00 Uhr in der Uni Mannheim A5, 6 im Raum C013 statt ([Anfahrtsbeschreibung](/getting-there)).
+Der Vortrag findet am 23.05.2018 um 19:00 Uhr in der Uni Mannheim A5, 6 im Raum C013 statt ([Anfahrtsbeschreibung](/getting-there)).
 
 ### Abstract
 
@@ -19,13 +19,15 @@ Eine der ersten und wichtigsten Regeln, die jedem Git-Neuling eingetrichtert wer
 
 Der Vortrag zeigt, wie durch sinnvolle Kombination von (interaktivem) Rebasing und Merging geteilter Entwicklungszweige eine gut gegliederte und leicht lesbare Versionshistorie inklusive Branches entstehen kann, ohne dass man zu viel seiner eigenen Vergangenheit vergisst.
 
-__Skills__  
+  
+__Skills__
+
 Grundlegende Kenntnisse in Git sind von Vorteil.
 
 __Lernziele__
-  
+
 - Verstehen der grundsätzlichen Fragestellungen bei der (Re-)Integration von Git Branches (Merge vs. Rebase, Merge Commit vs. Fast-Forward Merge)  
-- Kennenlernen der möglichen Vorteile und Risiken beim Einsatz von Rebasing  
+- Kennenlernen der möglichen Vorteile und Risiken beim Einsatz von Rebasing
 - Erfahren, wie sich eine einfach lesbare und gut verständliche Versionshistorie in Git trotz Branches erzeugen lässt  
 
 ### Bio

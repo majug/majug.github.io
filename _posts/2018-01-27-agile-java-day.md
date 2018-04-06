@@ -2,17 +2,18 @@
 layout: post
 title: 'Agile Java Day (aka Venkat&apos;s 50 JUG tour)'
 speaker: 'Venkat Subramaniam'
-state: startpage
+location: "C-Hub, Hafenstraße 25-27, 68159 Mannheim" 
 ---
 
 ### Registration
 
-In order to plan for this event we would politely ask for registration via our [Meetup page](https://www.meetup.com/mannheim-java-usergroup/events/244411248/).
-Around lunch time we will get Pizza and drinks.
+Participation requires registration via our [Meetup page](https://www.meetup.com/mannheim-java-usergroup/events/244411248/).
 
-### Termin
+Around lunch time we will get Pizza and drinks. We'd like to thank our <a href="#sponsors">sponsors</a> for supporting us. It wouldn't be possible to make this event happen without andrena objects, fluidops, Liveperson, OIO and Pivotal. 
 
-Saturday, Jan 27th 2018 from 09h until ca. 16:30h (4 talks at 90 mins each).
+### Date
+
+Saturday, Jan 27th 2018 from 9:00 to 17:00 (4 talks at 90 mins each) at [C-Hub](http://c-hub.de/) in [Hafenstraße 25-27, 68159 Mannheim](https://www.google.com/maps/search/?api=1&query=Hafenstra%C3%9Fe+25+%E2%80%93+27%2C+Mannheim%2C+de).
 
 ### Language
 
@@ -46,3 +47,28 @@ We all have seen our share of bad code and some really good code as well. What a
 He has trained and mentored thousands of software developers in the US, Canada, Europe, and Asia, and is a regularly-invited speaker at several international conferences. Venkat helps his clients effectively apply and succeed with sustainable agile practices on their software projects.
 
 Venkat is a (co)author of multiple technical books, including the 2007 Jolt Productivity award winning book Practices of an Agile Developer. You can find a list of his books at [agiledeveloper.com](https://www.agiledeveloper.com). You can reach him by email at [venkats@agiledeveloper.com](mailto:venkats@agiledeveloper.com) or on twitter at [@venkat_s](https://twitter.com/venkat_s).
+
+
+### Agenda
+
+* _8:30 to 9:00_ Reception
+* _9:00 to 9:15_ Introduction
+* _9:15 to 10:45_ Exploring Java 9
+* _10:45 to 11:00_ Break
+* _11:00 to 12:30_ From Functional to Reactive Programming
+* _12:30 to 13:45_ Lunch
+* _13:45 to 15:15_ The Power and Perils of Parallel Streams
+* _15:15 to 15:30_ Break
+* _15:30 to 17:00_ Twelve Ways to Make Code Suck Less
+
+### Sponsors
+
+We'd like to thank our sponsors for supporting us. It wouldn't be possible to make this event happen without andrena objects, fluidops, Liveperson, OIO and Pivotal.
+
+<a href="https://www.liveperson.com/de" target="_blank"><img src="/public/img/liveperson.png"  style="display: inline; padding: 10px; border: 0px;" /></a>
+<a href="https://www.oio.de" target="_blank"><img src="/public/img/oio-logo.png"  style="display: inline; padding: 10px; border: 0px;" /></a>
+<a href="https://www.fluidops.com/de/" target="_blank"><img src="/public/img/fluidops-logo.png"  style="display: inline; padding: 10px; border: 0px;" /></a>
+<a href="https://www.andrena.de" target="_blank"><img src="/public/img/andrena-logo.png" style="display: inline; padding: 10px; border: 0px;"/></a>
+<a href="https://www.pivotal.io" target="_blank"><img src="/public/img/pivotal-logo.png" style="display: inline; padding: 10px; vertical-align: top; border: 0px;" /></a>
+
+<p style="clear: both"> </p>
