@@ -5,15 +5,13 @@ speaker: Steffen Schluff
 state: startpage
 ---
 
-# Der Vortrag muss leider kurzfristig wegen Krankheit verschoben werden! Der neue Termin wird bekannt gegeben!
-
 ### Registration
 
 Wir freuen uns über Eure Anmeldung (optional und unverbindlich) auf unserer [Meetup-Seite](https://www.meetup.com/de-DE/mannheim-java-usergroup/events/245824290/).
 
 ### Termin
 
-Der Vortrag findet am 22.03.2018 um 19:00 Uhr in der Uni Mannheim A5, 6 im Raum C013 statt ([Anfahrtsbeschreibung](/getting-there)).
+Der Vortrag findet am 23.05.2018 um 19:00 Uhr in der Uni Mannheim A5, 6 im Raum C013 statt ([Anfahrtsbeschreibung](/getting-there)).
 
 ### Abstract
 
@@ -21,6 +19,7 @@ Eine der ersten und wichtigsten Regeln, die jedem Git-Neuling eingetrichtert wer
 
 Der Vortrag zeigt, wie durch sinnvolle Kombination von (interaktivem) Rebasing und Merging geteilter Entwicklungszweige eine gut gegliederte und leicht lesbare Versionshistorie inklusive Branches entstehen kann, ohne dass man zu viel seiner eigenen Vergangenheit vergisst.
 
+  
 __Skills__
 
 Grundlegende Kenntnisse in Git sind von Vorteil.
