@@ -2,10 +2,9 @@
 layout: post
 title: "Besser leben durch Rebasing: Geschönte Entwicklungshistorie leicht gemacht dank Git"
 speaker: Steffen Schluff
-state: startpage
 ---
 
-# Der Vortrag muss leider kurzfristig wegen Krankheit verschoben werden! Der neue Termin wird bekannt gegeben!
+# Der Vortrag muss leider kurzfristig wegen Krankheit verschoben werden! Der neue Termin findet am [23.05.2018](http://www.majug.de/2018/05/23/git-rebasing/) statt.
 
 ### Registration
 
