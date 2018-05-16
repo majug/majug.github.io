@@ -2,7 +2,6 @@
 layout: post
 title: "Property-Based Testing mit Java"
 speaker: Johannes Link 
-state: startpage
 ---
 
 ### Registration

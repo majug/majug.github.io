@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="posts">
-  {% assign startpage_posts = (site.posts | where: "state", "startpage") %}
+  {% assign startpage_posts = site.posts | where: "state", "startpage" %}
   {% for post in startpage_posts reversed %}
   <div class="post">
     <h1 class="post-title">

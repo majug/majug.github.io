@@ -32,4 +32,4 @@ github:
 future:               true
 
 # Gems needed
-gems:                 [jekyll-paginate]
+plugins:                 [jekyll-paginate]
