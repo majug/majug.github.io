@@ -2,7 +2,6 @@
 layout: post
 title: "Besser leben durch Rebasing: Geschönte Entwicklungshistorie leicht gemacht dank Git"
 speaker: Steffen Schluff
-state: startpage
 ---
 
 ### Registration
