@@ -2,7 +2,6 @@
 layout: post
 title: "Shenandoah - ultra-low pause time garbage collector"
 speaker: Walery Strauch
-state: startpage
 ---
 
 ### Registration
