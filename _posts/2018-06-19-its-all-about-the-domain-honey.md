@@ -3,7 +3,6 @@ layout: post
 title: "It's all about the domain, honey – Domain-Driven Design als Basis für Microservices in Java"
 speaker: Henning Schwenter
 location: "LivePerson Germany GmbH, P3 1-3, Mannheim"
-state: startpage
 ---
 
 ### Registration
