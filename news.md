@@ -4,6 +4,18 @@ title: News
 index: 1
 ---
 
+## unKonf 2018: Das Barcamp für Webentwicklung
+
+<a href="https://www.unkonf.de/unkonf/"><img src="/public/img/unkonf-logo.jpg" width="150"/></a>
+
+Am 13. Oktober 2018 in Mannheim<br />
+
+Die „unKonf“ ist eine UnKonferenz und richtet sich an interessierte Software-Entwickler die sich zu aktuellen Themen gemeinsam austauschen möchten. Eine Unkonferenz ist Veranstaltung ohne festes Programm. Themen und Zeitplan werden gemeinsam am Anfang des Tages festgelegt. Anders als bei „klassischen“ UnKonferenzen wird uns eine Keynote auf den gemeinsamen Tag einstimmen.
+
+Wir verlosen am [23. August 2018](http://www.majug.de/2018/08/23/Kubernetes-Basics/), beim [Kubernetes Basics](http://www.majug.de/2018/08/23/Kubernetes-Basics/) Vortrag ein Freiticket für die unKonf.
+
+Weitere Informationen zur unKonf: [unkonf.de](https://www.unkonf.de/unkonf/)
+
 ## W-JAX 2018 Die Konferenz für Java, Architektur- und Software-Innovation
 
 <a href="https://jax.de"><img src="/public/img/wjax.png"/></a>
