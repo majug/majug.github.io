@@ -3,7 +3,6 @@ layout: post
 title: "Kubernetes Basics - am Beispiel einer Spring Boot App"
 speaker: Christian Kühn
 location: "LivePerson Germany GmbH, P3 1-3, Mannheim"
-state: startpage
 ---
 
 ### Registration

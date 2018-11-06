@@ -3,7 +3,6 @@ layout: post
 title: 'Reactive Spring'
 speaker: 'Mark Paluch'
 location: "Orientation in Objects GmbH, Weinheimer Str. 68, 68309 Mannheim"
-state: startpage
 ---
 
 ### Termin
