@@ -4,33 +4,22 @@ title: News
 index: 1
 ---
 
-## unKonf 2018: Das Barcamp für Webentwicklung
+## JAX | Die Konferenz für Java, Architektur- und Software-Innovation
 
-<a href="https://www.unkonf.de/unkonf/"><img src="/public/img/unkonf-logo.jpg" width="150"/></a>
+<a href="https://jax.de"><img src="/public/img/jax.png"/></a>
 
-Am 13. Oktober 2018 in Mannheim<br />
+6. – 10. Mai 2019 | Mainz<br />
+Expo: 7. – 9. Mai 2019
 
-Die „unKonf“ ist eine UnKonferenz und richtet sich an interessierte Software-Entwickler die sich zu aktuellen Themen gemeinsam austauschen möchten. Eine Unkonferenz ist Veranstaltung ohne festes Programm. Themen und Zeitplan werden gemeinsam am Anfang des Tages festgelegt. Anders als bei „klassischen“ UnKonferenzen wird uns eine Keynote auf den gemeinsamen Tag einstimmen.
-
-Wir verlosen am [23. August 2018](http://www.majug.de/2018/08/23/Kubernetes-Basics/), beim [Kubernetes Basics](http://www.majug.de/2018/08/23/Kubernetes-Basics/) Vortrag ein Freiticket für die unKonf.
-
-Weitere Informationen zur unKonf: [unkonf.de](https://www.unkonf.de/unkonf/)
-
-## W-JAX 2018 Die Konferenz für Java, Architektur- und Software-Innovation
-
-<a href="https://jax.de"><img src="/public/img/wjax.png"/></a>
-
-Vom 5. - 9. November 2018 in München<br />
-Expo: 6. - 8. November 2018
-
-Die W-JAX ist die Konferenz für moderne Java- und Web-Entwicklung, für Software-Architektur und innovative Infrastruktur. Bekannte Experten vermitteln hier ihr Erfahrungswissen – verständlich, praxisnah und erfolgsorientiert.
+Die JAX ist die Konferenz für moderne Java- und Web-Entwicklung, für Software-Architektur und innovative Infrastruktur. Bekannte Experten vermitteln hier ihr Erfahrungswissen – verständlich, praxisnah und erfolgsorientiert.
 
 Ein besonderer Fokus liegt auf Java Core- und Enterprise-Technologien, Microservices, dem Spring-Ökosystem, JavaScript, Continuous Delivery und DevOps.
 
-Das bietet die W-JAX 2018:<br />
-180+ Workshops, Sessions und Keynotes<br />
-160+ Internationale Speaker<br />
-18+ themenspezifische Special Days<br />
-Expo namhafter IT-Unternehmen
+KONFERENZ
+6. BIS 10. MAI
+* 200+ Workshops, Sessions und Keynotes
+* 170+ Internationale Speaker
+* Expo namhafter IT-Unternehmen
+* Special Days zu Java Enterprise, Agile und Spring
 
 Weitere Informationen zur W-JAX finden Sie unter: [jax.de](https://jax.de)
