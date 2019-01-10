@@ -8,15 +8,15 @@ index: 1
 
 <a href="https://jax.de"><img src="/public/img/jax.png"/></a>
 
-\6. – 10. Mai 2019 | Mainz<br />
+6&#46; – 10. Mai 2019 | Mainz<br />
 Expo: 7. – 9. Mai 2019
 
 Die JAX ist die Konferenz für moderne Java- und Web-Entwicklung, für Software-Architektur und innovative Infrastruktur. Bekannte Experten vermitteln hier ihr Erfahrungswissen – verständlich, praxisnah und erfolgsorientiert.
 
 Ein besonderer Fokus liegt auf Java Core- und Enterprise-Technologien, Microservices, dem Spring-Ökosystem, JavaScript, Continuous Delivery und DevOps.
 
-KONFERENZ
-\6. BIS 10. MAI
+KONFERENZ<br />
+6&#46; BIS 10. MAI
 * 200+ Workshops, Sessions und Keynotes
 * 170+ Internationale Speaker
 * Expo namhafter IT-Unternehmen
