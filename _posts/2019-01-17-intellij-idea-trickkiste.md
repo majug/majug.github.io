@@ -3,7 +3,6 @@ layout: post
 title: "IntelliJ IDEA Trickkiste - Ein Entwickler packt aus"
 speaker: Yann Cébron
 location: "LivePerson Germany GmbH, P3 1-3, Mannheim"
-state: startpage
 ---
 
 ### Registration
