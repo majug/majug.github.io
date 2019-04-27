@@ -2,7 +2,7 @@
 layout: post
 title: "Kotlin 1.3 in Action und Kotlin Multiplatform & Kotlin Native in Action"
 speaker: "Tobias Fritz"
-location: "TBA"
+location: "N7 5-6, 68161 Mannheim"
 state: startpage
 ---
 
