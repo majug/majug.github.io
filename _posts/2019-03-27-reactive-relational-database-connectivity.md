@@ -3,7 +3,6 @@ layout: post
 title: "Reactive Relational Database Connectivity"
 speaker: "Mark Paluch"
 location: "Uni Mannheim, Raum C013, A5 6, 68159 Mannheim"
-state: startpage
 ---
 
 ### Registration
