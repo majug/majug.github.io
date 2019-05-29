@@ -3,7 +3,6 @@ layout: post
 title: "Configuration Management and Zero-downtime deployment with Kubernetes, Spring Boot"
 speaker: "Nicolas Frankel"
 location: "Uni Mannheim, Raum C013, A5 6, 68159 Mannheim"
-state: startpage
 ---
 
 ### Registration
