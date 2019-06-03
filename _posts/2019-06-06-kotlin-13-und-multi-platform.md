@@ -12,7 +12,7 @@ Wir freuen uns über Eure Anmeldung (optional und unverbindlich) auf unserer [Me
 
 ### Termin
 
-Der Vortrag findet am 06.06.2019 um 19:00 Uhr statt. Veranstaltungsort ist bei BridgingIT N7, 5-6 in 68161 Mannheim.
+Der Vortrag findet am 06.06.2019 um 19:00 Uhr statt. Veranstaltungsort ist bei BridgingIT N7, 5-6 in 68161 Mannheim  ([Anfahrtsbeschreibung](https://www.bridging-it.de/media/anfahrtsbeschreibungen/wegbeschreibung-mannheim.pdf)).
 ### Abstract
 
 ### Kotlin 1.3 in Action
