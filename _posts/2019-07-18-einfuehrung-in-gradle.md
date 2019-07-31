@@ -3,7 +3,6 @@ layout: post
 title: "Einführung in Gradle"
 speaker: "Marc Philipp"
 location: "LivePerson Germany GmbH, P3 1-3, Mannheim"
-state: startpage
 ---
 
 ### Registration
