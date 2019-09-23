@@ -2,7 +2,7 @@
 layout: post
 title: "Jenkins X – Continuously Driving the Kloud"
 speaker: "Gerd Aschemann"
-location: "To be announced"
+location: "LivePerson Germany GmbH, P3 1-3, Mannheim"
 state: startpage
 ---
 
@@ -12,7 +12,7 @@ Wir freuen uns über Eure Anmeldung (optional und unverbindlich) auf unserer [Me
 
 ### Termin
 
-Der Vortrag findet am 24.10.2019 um 19:00 Uhr statt. Der Ort wird noch bekannt gegeben.
+Der Vortrag findet am 24.10.2019 um 19:00 Uhr bei LivePerson in P3 1-3, Mannheim statt.
 
 ### Abstract
 
