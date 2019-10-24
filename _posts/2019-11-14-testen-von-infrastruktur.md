@@ -2,7 +2,7 @@
 layout: post
 title: "Testen von und mit Infrastruktur - Integration Testing done right"
 speaker: "Sandra Parsick"
-location: "Uni Mannheim, Raum C013, A5 6, 68159 Mannheim"
+location: "N7 5-6, 68161 Mannheim"
 state: startpage
 ---
 
@@ -12,7 +12,7 @@ Wir freuen uns über Eure Anmeldung (optional und unverbindlich) auf unserer [Me
 
 ### Termin
 
-Der Vortrag findet am 14.11.2019 um 19:00 Uhr in der Uni Mannheim A5, 6 im Raum C013 statt ([Anfahrtsbeschreibung](/getting-there)).
+Der Vortrag findet am 14.11.2019 um 19:00 Uhr bei Bridging IT in N7 5-6, 68161 Mannheim statt.
 
 ### Abstract
 
