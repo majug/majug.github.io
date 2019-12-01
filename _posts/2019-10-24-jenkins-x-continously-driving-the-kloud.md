@@ -3,7 +3,6 @@ layout: post
 title: "Jenkins X – Continuously Driving the Kloud"
 speaker: "Gerd Aschemann"
 location: "LivePerson Germany GmbH, P3 1-3, Mannheim"
-state: startpage
 ---
 
 ### Registration
