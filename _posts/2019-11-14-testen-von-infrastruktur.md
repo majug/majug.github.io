@@ -3,7 +3,6 @@ layout: post
 title: "Testen von und mit Infrastruktur - Integration Testing done right"
 speaker: "Sandra Parsick"
 location: "N7 5-6, 68161 Mannheim"
-state: startpage
 ---
 
 ### Registration
