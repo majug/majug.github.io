@@ -9,13 +9,13 @@ permalink:            pretty
 title:                majug
 tagline:              'Mannheim Java User Group'
 description:          'Community der Java Anwender in Mannheim und Rhein Neckar Dreieck'
-url:                  https://majug.de
+url:                  https://www.majug.de
 #baseurl:              /
 events_baseurl:       /events/
 
 author:
   name:               'majug'
-  url:                https://majug.de
+  url:                https://www.majug.de
   twitter:            https://twitter.com/majug
   meetup:             https://www.meetup.com/mannheim-java-usergroup/
 
