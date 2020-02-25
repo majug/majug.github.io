@@ -3,7 +3,6 @@ layout: post
 title: "Automated Security-Testing in Continuous Integration"
 speaker: "Christian Kühn"
 location: "LivePerson Germany GmbH, P3 1-3, Mannheim"
-state: startpage
 ---
 
 ### Registration
