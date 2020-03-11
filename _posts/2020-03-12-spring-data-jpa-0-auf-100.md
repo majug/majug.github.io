@@ -8,11 +8,20 @@ state: startpage
 
 ### Registration
 
-Wir freuen uns über Eure Anmeldung (optional und unverbindlich) auf unserer [Meetup-Seite](https://www.meetup.com/de-DE/mannheim-java-usergroup/events/267931671/).
+Dieser Termin ist aufgrund der aktuellen Situation mit dem neuen Coronavirus (SARS-CoV-2) kurzfristig abgesagt. 
+Obwohl unsere Veranstaltungen einen kleineren Besucherkreis haben, möchten wir der aktuellen Lage mit der notwendigen Aufmerksamkeit begegnen und sehen uns in der Verantwortung potenzielle Infektionsketten zu minimieren.
+
+Wir entschuldigen uns für die Kurzfristigkeit, jedoch haben wir es mit einer dynamischen Entwicklung zu tun bei der wir jeden Tag dazulernen.
+
+Dieser Termin wird nachgeholt sobald sich die Situation entspannt.
+
+Vielen Dank für euer Verständnis!
 
 ### Termin
 
-Der Vortrag findet am 12.03.2020 um 19:00 Uhr in der Uni Mannheim A5, 6 im Raum C013 statt ([Anfahrtsbeschreibung](/getting-there)).
+**Der Vortrag findet nicht statt.**
+
+Ursprünglich war dieser am 12.03.2020 um 19:00 Uhr geplant..
 
 ### Abstract
 
