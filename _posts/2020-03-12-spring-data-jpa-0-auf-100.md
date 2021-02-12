@@ -3,7 +3,6 @@ layout: post
 title: "Spring Data JPA von 0 auf 100 in 60 Minuten"
 speaker: "Jens Schauder"
 location: "Uni Mannheim, Raum C013, A5 6, 68159 Mannheim"
-state: startpage
 ---
 
 ### Registration
