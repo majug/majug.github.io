@@ -3,7 +3,6 @@ layout: post
 title: "Property Based Resilience Testing Workshop"
 speaker: "Gregor Trefs"
 location: "Online"
-state: startpage
 ---
 
 ### Termin
