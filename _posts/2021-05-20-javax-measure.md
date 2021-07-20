@@ -3,7 +3,6 @@ layout: post
 title: "javax.measure bringt verständliche Einheiten in die Software"
 speaker: "Felix Schultze"
 location: "Online"
-state: startpage
 ---
 
 ### Termin
