@@ -4,37 +4,29 @@ title: News
 index: 1
 ---
 
-## ObjektForum Online Edition | Java-Software-Modularisierung am 19.04.2021
 
-<a href="https://www.andrena.de/event/objektforum-onlineedition-april-2021"><img src="/public/img/objektforum_online.png"/></a>
+## Accento Conference 2021 – Java/JavaScript/Ops
 
-Andrena Objects führt das Objekt Forum online fort. Am 19.04.2021 referiert Thorsten zum Thema 
-Java-Software-Modularisierung. Bei Interesse könnt ihr euch gerne [hier](https://www.andrena.de/event/objektforum-onlineedition-april-2021) 
-anmelden.  
+<a href="https://accento.dev"><img height="300" src="https://user-images.githubusercontent.com/103426/127468015-65344658-0fe0-4adb-a10d-79fc5c28b9ab.png"/></a>
 
-### Abstract
+Accento ist eine zweitägige Konferenz für erfahrene Java/Web-Entwickler und geht dieses Jahr in die dritte Runde. Die Veranstaltung steht 2021 unter dem Motto „Back to the Roots“ und erwartet die Teilnehmenden mit einer Keynote und drei Tracks mit insgesamt 15 inspirierenden Talks zu Java und JVM, JavaScript und Web-Development sowie Operations. Außerdem gibt es spannend Paneldiskussionen, kurze Lightning-Talks, mehrere Deep-Dive-Trainings und jede Menge Austauschmöglichkeiten.
 
-Software-Architektur ist zunächst etwas sehr Einfaches: Wir definieren klar abgegrenzte Bausteine und die Beziehungen 
-zwischen diesen Bausteinen. Das war’s. Mit etwas Mühe lassen sich in jeder Anwendung fachliche Schnitte finden, um die 
-geforderten Bausteine voneinander abzugrenzen. Doch welche Modularisierungstechnik sollte man dabei wählen? 
-Java Package? JAR? Jigsaw Modul? OSGI Bundle? ReSTful API? Microservice? Docker Container? Kubernetes Pod?
+Konferenz: 28. September 2021
 
-In dieser Session möchten wir Sie ermutigen, Entscheidungen im Zweifel auch gegen den aktuellen Markthype und für die 
-am besten zu Ihren Anforderungen passende Technik zu treffen. Dazu berichten wir über unsere selbst gemachten 
-Erfahrungen aus zwei Jahrzehnten praktischer Software-Modularisierung und werfen auch einen Blick auf bekannte 
-Softwarehersteller mit Ihren Modularisierungsentscheidungen und deren Konsequenzen.
+Trainings: 29. September 2021
 
-### Referent
+Ort: Südwerk, Karlsruhe
 
-Thorsten Maier arbeitet bei Trivadis in Mannheim. Er erschließt kontinuierlich bessere Wege, Software zu entwickeln, 
-indem er selbst als leidenschaftlicher Software-Entwickler mit Java und JavaScript unterwegs ist und anderen als 
-Berater, Trainer, Autor sowie Speaker dabei hilft.
+Mehr Infos und Tickets: [accento.dev](https://accento.dev)
 
-## JAX | Die Konferenz für Java, Architektur- und Software-Innovation
 
-<a href="https://jax.de"><img src="/public/img/jax.png"/></a>
 
-11&#46; – 15. Mai 2020 &#x007C; Rheingoldhalle Mainz
+
+## W-JAX | Die Konferenz für Java, Architektur- und Software-Innovation
+
+<a href="https://jax.de/muenchen/"><img src="/public/img/wjax.png"/></a>
+
+8&#46; – 12. November 2021 &#x007C; München
 
 ### Java-Kompetenz Stärken
 Seit mehr als 15 Jahren vermittelt die JAX wertvolles Praxis-Know-How rund um die populärste Programmiersprache der Welt. Lernen Sie von den besten Experten der Szene, wie Sie Ihre Java-Projekte zum Erfolg führen.
@@ -45,4 +37,4 @@ Enterprise Java, Spring, Microservices, DevOps, Cloud – erleben Sie, wie sich 
 ### Trends Verstehen
 Was steckt hinter aktuellen Trendthemen wie JavaScript, Machine Learning, Blockchain & Serverless? Verstehen Sie die Hintergründe und lernen Sie, Innovationen gezielt in Ihren Projekten einzusetzen.
 
-Weitere Informationen zur JAX finden Sie unter: [jax.de](https://jax.de)
+Weitere Informationen zur W-JAX finden Sie unter: [jax.de](https://jax.de/muenchen/)
