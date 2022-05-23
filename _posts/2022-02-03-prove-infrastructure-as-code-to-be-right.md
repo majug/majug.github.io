@@ -3,7 +3,6 @@ layout: post
 title: "Don't test your Infrastructure as Code – prove it to be right"
 speaker: "Gerd Aschemann"
 location: "Online"
-state: startpage
 ---
 
 ### Termin

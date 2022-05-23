@@ -3,7 +3,6 @@ layout: post
 title: "Advanced Docker"
 speaker: "Simon Pelczer"
 location: "Online"
-state: startpage
 ---
 
 ### Termin
