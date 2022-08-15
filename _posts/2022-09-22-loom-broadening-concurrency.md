@@ -2,7 +2,7 @@
 layout: post
 title: "Project Loom: Broadening Concurrency"
 speaker: "Mark Paluch"
-location: "Der genaue Ort wird noch bekanntgegeben"
+location: "Bridging IT, N7 5-6, 68161 Mannheim"
 state: startpage
 ---
 
@@ -12,7 +12,7 @@ Wir freuen uns über eure Anmeldung (optional und unverbindlich) auf unserer [Me
 
 ### Termin
 
-Der Vortrag findet am 22.09.2022 um 19:00 Uhr in Mannheim statt. Der genaue Ort wird noch bekanntgegeben.
+Der Vortrag findet am 22.09.2022 um 19:00 Uhr bei Bridging IT statt. N7 5-6, 68161 Mannheim, Eingang links neben dem (ehemaligen) Saturn. Kostenloses parken im Parkhaus N7 möglich.
 
 ### Abstract
 
