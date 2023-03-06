@@ -3,7 +3,6 @@ layout: post
 title: "Project Loom: Broadening Concurrency"
 speaker: "Mark Paluch"
 location: "Bridging IT, N7 5-6, 68161 Mannheim"
-state: startpage
 ---
 
 ### Registration
