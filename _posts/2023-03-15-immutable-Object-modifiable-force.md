@@ -3,7 +3,6 @@ layout: post
 title: "When an immutable Object meets a modifiable force"
 speaker: "Reinier Zwitserloot & Roel Spilker"
 location: "andrena objects, Eastsite ELYSIUM, Konrad-Zuse-Ring 23, 68163 Mannheim"
-state: startpage
 ---
 
 Wir sind zurück mit einem weiteren spannenden Vortrag, dieses Mal als reine Präsenzveranstaltung. Die Firma **[andrena objects](https://www.andrena.de/)** heißt uns freundlicherweise in ihren Räumlichkeiten in **Mannheim-Eastsite** willkommen und wird auch **Getränke und einen Snack** bereitstellen.
