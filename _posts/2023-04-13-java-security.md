@@ -3,7 +3,6 @@ layout: post
 title: "Was Java-Entwickler über Offensive Security wissen sollten"
 speaker: "Kai Ullrich"
 location: "BridgingIT GmbH, N7 5-6, 68161 Mannheim"
-state: startpage
 ---
 
 Unser nächster Vortrag von **Kai Ullrich** dreht sich um das Thema **Java Security**, das immer mehr Relevanz bekommt.
