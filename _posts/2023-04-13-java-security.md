@@ -12,7 +12,7 @@ Die Firma **Bridging IT** heißt uns freundlicherweise in ihren Räumlichkeiten 
 
 ### Registration
 
-Wir freuen uns über eure Anmeldung (optional und unverbindlich) auf unserer [Meetup-Seite](https://www.meetup.com/mannheim-java-usergroup/events/292700195/).
+Wir freuen uns über eure Anmeldung (optional und unverbindlich) auf unserer [Meetup-Seite](https://www.meetup.com/mannheim-java-usergroup/events/293466511).
 
 ### Termin
 
