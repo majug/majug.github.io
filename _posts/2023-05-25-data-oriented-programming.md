@@ -16,7 +16,7 @@ Wir freuen uns über eure Anmeldung (optional und unverbindlich) auf unserer [Me
 
 ### Termin
 
-Der Vortrag findet am 25.05.2023 um 19:00 Uhr bei [LivePerson Germany GmbH](https://www.liveperson.com/) in [P3 1-3, 68161 Mannheim](https://www.google.de/maps/place/BridgingIT+GmbH/@49.48412,8.4703408,17z/data=!3m1!4b1!4m6!3m5!1s0x4797cc21bf0b399b:0x55af1f1e67367aca!8m2!3d49.48412!4d8.47207!16s%2Fg%2F1tfjpngm) statt.
+Der Vortrag findet am 25.05.2023 um 19:00 Uhr bei [LivePerson Germany GmbH](https://www.liveperson.com/) in [P3 1-3, 68161 Mannheim](https://maps.app.goo.gl/5YHvJPGSfrKrvP8y8?g_st=ic) statt.
 
 
 ### Abstract
