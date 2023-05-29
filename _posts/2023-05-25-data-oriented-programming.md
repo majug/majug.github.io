@@ -3,7 +3,6 @@ layout: post
 title: "Data-Oriented Programming in Java"
 speaker: "Nicolai Parlog"
 location: "LivePerson Germany GmbH, P3 1-3, 68161 Mannheim"
-state: startpage
 ---
 
 Unser nächster Vortrag von **Nicolai Parlog** dreht sich um das Thema **Data Oriented Programming**. 
