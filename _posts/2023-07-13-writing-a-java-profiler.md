@@ -10,6 +10,8 @@ Unser nächster Vortrag von **Johannes Bechberger** dreht sich um das Thema **Pr
 
 Die Firma **LivePerson** heißt uns freundlicherweise in ihren Räumlichkeiten in den Mannheimer Quadraten willkommen.
 
+Wir verlosen ein Ticket für [die W-JAX im November in München](https://jax.de/muenchen/) unter allen Besuchern.
+
 ### Registration
 
 Wir freuen uns über eure Anmeldung (optional und unverbindlich) auf unserer [Meetup-Seite](https://www.meetup.com/mannheim-java-usergroup/events/294134437/).
