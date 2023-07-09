@@ -4,14 +4,14 @@ title: News
 index: 1
 ---
 
-## JAX | Die Konferenz für Java, Architektur- und Software-Innovation
+## W-JAX | Die Konferenz für Java, Architektur- und Software-Innovation
 
-<a href="https://jax.de/mainz/"><img src="/public/img/jax.png"/></a>
+<a href="https://jax.de/mainz/"><img src="/public/img/wjax.png"/></a>
 
-8&#46; – 12. Mai 2023 &#x007C; Mainz
+06&#46; – 10. November 2023 &#x007C; München oder Online
 
 ### Java-Kompetenz Stärken
-Seit mehr als 20 Jahren vermittelt die JAX wertvolles Praxis-Know-How rund um die populärste Programmiersprache der Welt. Lernen Sie von den besten Experten der Szene, wie Sie Ihre Java-Projekte zum Erfolg führen.
+Seit mehr als 20 Jahren vermittelt die W-JAX wertvolles Praxis-Know-How rund um die populärste Programmiersprache der Welt. Lernen Sie von den besten Experten der Szene, wie Sie Ihre Java-Projekte zum Erfolg führen.
 
 ### Software-Architektur Erleben
 Enterprise Java, Spring, Microservices, DevOps, Cloud – erleben Sie, wie sich technologische Neuerungen in Gesamtkontexte integrieren lassen, um nachhaltige und zukunftsfähige IT-Systeme zu bauen.
@@ -19,7 +19,7 @@ Enterprise Java, Spring, Microservices, DevOps, Cloud – erleben Sie, wie sich 
 ### Trends Verstehen
 Was steckt hinter aktuellen Trendthemen wie JavaScript, Machine Learning, Blockchain & Serverless? Verstehen Sie die Hintergründe und lernen Sie, Innovationen gezielt in Ihren Projekten einzusetzen.
 
-Weitere Informationen zur JAX finden Sie unter: [jax.de](https://jax.de/mainz/)
+Weitere Informationen zur JAX finden Sie unter: [jax.de](https://jax.de/muenchen/)
 
 
 
