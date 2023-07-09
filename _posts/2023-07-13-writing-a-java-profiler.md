@@ -8,6 +8,8 @@ state: startpage
 
 Unser nächster Vortrag von **Johannes Bechberger** dreht sich um das Thema **Profiling in Java**.
 
+Die Firma **LivePerson** heißt uns freundlicherweise in ihren Räumlichkeiten in den Mannheimer Quadraten willkommen.
+
 ### Registration
 
 Wir freuen uns über eure Anmeldung (optional und unverbindlich) auf unserer [Meetup-Seite](https://www.meetup.com/mannheim-java-usergroup/events/294134437/).
