@@ -3,7 +3,6 @@ layout: post
 title: "Harbor für Entwickler"
 speaker: "Vadim Bauer"
 location: "andrena objects, Eastsite ELYSIUM, Konrad-Zuse-Ring 23, 68163 Mannheim"
-state: startpage
 ---
 
 Unser nächster Vortrag von **Vadim Bauer** dreht sich um das Thema [**Harbor**](https://goharbor.io/). Die Firma **[andrena objects](https://www.andrena.de/)** heißt uns freundlicherweise in ihren Räumlichkeiten in **Mannheim-Eastsite** willkommen und wird auch **Getränke und Pizza** bereitstellen.
