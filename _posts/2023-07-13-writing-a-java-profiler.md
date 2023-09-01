@@ -3,7 +3,6 @@ layout: post
 title: "Writing a Java Profiler in Pure Java"
 speaker: "Johannes Bechberger"
 location: "tbd"
-state: startpage
 ---
 
 Unser nächster Vortrag von **Johannes Bechberger** dreht sich um das Thema **Profiling in Java**.
