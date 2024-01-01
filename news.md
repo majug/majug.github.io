@@ -4,39 +4,8 @@ title: News
 index: 1
 ---
 
-## W-JAX | Die Konferenz für Java, Architektur- und Software-Innovation
+## JavaLand 2024
 
-<a href="https://jax.de/mainz/"><img src="/public/img/wjax.png"/></a>
+<a href="https://www.javaland.eu"><img src="/public/img/javaland_2024.jpg"/></a>
 
-06&#46; – 10. November 2023 &#x007C; München oder Online
-
-### Java-Kompetenz Stärken
-Seit mehr als 20 Jahren vermittelt die W-JAX wertvolles Praxis-Know-How rund um die populärste Programmiersprache der Welt. Lernen Sie von den besten Experten der Szene, wie Sie Ihre Java-Projekte zum Erfolg führen.
-
-### Software-Architektur Erleben
-Enterprise Java, Spring, Microservices, DevOps, Cloud – erleben Sie, wie sich technologische Neuerungen in Gesamtkontexte integrieren lassen, um nachhaltige und zukunftsfähige IT-Systeme zu bauen.
-
-### Trends Verstehen
-Was steckt hinter aktuellen Trendthemen wie JavaScript, Machine Learning, Blockchain & Serverless? Verstehen Sie die Hintergründe und lernen Sie, Innovationen gezielt in Ihren Projekten einzusetzen.
-
-Weitere Informationen zur JAX finden Sie unter: [jax.de](https://jax.de/muenchen/)
-
-
-
-## Accento Conference 2023 – Java/Web/Dev
-
-<a href="https://accento.dev"><img height="300" src="/public/img/accento.webp"/></a>
-
-Accento is an amazing combination of high-caliber conference and well-founded, hands-on trainings for experienced Java/web developers. If you're up for two days of inspiring talks, professional sessions, interesting discussions, and new ideas around Java, JavaScript, and web development, you don't want to miss it.
-
-Conference day: 24th of October 2023
-
-Training day: 25th of October 2023
-
-Location: Südwerk, Karlsruhe
-
-Sounds great? Then read on or get your ticket at [accento.dev](https://accento.dev)
-
-
-
-
+Vom 9. bis 11. April 2024 findet die zehnte Auflage der JavaLand statt. Es erwartet Dich ein spannendes Vortragsprogramm mit internationalen Top-Rednern und eine Menge Aktivitäten von der Community. Beim anschließenden Schulungstag kannst Du Deine Kenntnisse noch etwas vertiefen. [Buche jetzt Dein Ticket](https://meine.doag.org/events/javaland/shop/).
