@@ -2,7 +2,7 @@
 layout: post
 title: "Spring Modulith - Spring for the Architecturally Curious Developer"
 speaker: "Oliver Drotbohm"
-location: "TBA"
+location: "bitExpert AG, Rudolf-Diesel-Straße 40-46, 68169 Mannheim"
 state: startpage
 ---
 
@@ -12,7 +12,7 @@ Unser nächster Vortrag von **Oliver Drotbohm** geht sich um das Thema **Spring 
 Wir freuen uns über eure Anmeldung (optional und unverbindlich) auf unserer [Meetup-Seite](https://www.meetup.com/de-DE/mannheim-java-usergroup/events/298280616/).
 
 ### Termin
-Der Vortrag findet am 24.01.2024 um 19:00 Uhr statt. Der Ort wird noch bekannt gegeben.
+Der Vortrag findet am 24.01.2024 um 19:00 Uhr statt. Diesmal bei [bitExpert](https://maps.app.goo.gl/XQteBQAY6EQm5S7U7).
 
 
 ### Abstract
