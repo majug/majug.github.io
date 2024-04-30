@@ -13,31 +13,22 @@ Wenn du Fragen hast oder mit uns in Kontakt treten möchtest, kannst du uns gern
 
 ## Team
 
-### Markus Buch
-
-Markus Buch ist beruflich als Software-Entwickler und Architekt im Umfeld von Java, JavaScript und Web Technologien unterwegs. Privat interessiert er sich für Mobile Development und hackt auch gerne ein paar Zeilen Python.
-
-Twitter: [@elliot2extreme](https://twitter.com/elliot2extreme)
-
 ### Wolfgang Schell
 
-Wolfgang ist sehr mehr als 15 Jahren als Software-Entwickler tätig und arbeitet aktuell als Lead Platform Architect bei fluid Operations im Umfeld Cloud Orchestrierung, Linked Data und Semantic Web. Außerdem interessiert er sich für Groovy und die Innereien der JVM.
+Wolfgang ist sehr mehr als 20 Jahren als Software-Entwickler tätig und arbeitet aktuell als Lead Platform Architect bei metaphacts im Umfeld von Linked Data und Semantic Web. Außerdem interessiert er sich für Groovy und die Innereien der JVM.
 
 Twitter: [@jetztgradnet](https://twitter.com/jetztgradnet)
+Github: [jetztgradnet](https://github.com/jetztgradnet/)
 
 ### Walery Strauch
 
 Walery ist freiberuflicher Software-Entwickler im Umfeld von Java. Er ist ein Konferenztourist und Fan von Spring.
 
 Twitter: [@walery](https://twitter.com/walery)
+GitHub: [walery](https://github.com/walery)
 
 ### Gregor Trefs
 Gregor ist freiberuflicher Softwareentwickler. Sein erstes Programm war ein in BASIC geschriebenes Text Adventure. Inzwischen schreibt er Fachartikel und hält Vorträge auf Konferenzen und User Groups.
 
 Twitter: [@gtrefs](https://twitter.com/gtrefs)
-
-### Mark Paluch
-
-Mark ist Software Craftsman, Spring Data Engineer bei Pivotal, arbeitet als Mitglied der CDI 2.0 (JSR365) Expert Group an der nächsten Version der Spec und entwickelt den lettuce Redis Treiber. Sein Fokus liegt auf Software-Architektur, Spring und Redis.
-
-Twitter: [@mp911de](https://twitter.com/mp911de)
+GitHub: [gtrefs](https://github.com/gtrefs)
