@@ -3,7 +3,6 @@ layout: post
 title: "Spring Modulith - Spring for the Architecturally Curious Developer"
 speaker: "Oliver Drotbohm"
 location: "bitExpert AG, Rudolf-Diesel-Straße 40-46, 68169 Mannheim"
-state: startpage
 ---
 
 Unser nächster Vortrag von **Oliver Drotbohm** geht sich um das Thema **Spring Modulith - Spring for the Architecturally Curious Developer**.
