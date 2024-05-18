@@ -6,6 +6,8 @@ location: "68169 Mannheim (Details tbd)"
 state: startpage
 ---
 
+**Der Vortrag muss leider verschobenen werden!** Sobald ein neuer Termin feststeht, sagen wir Bescheid.
+
 Unser nächster Vortrag von **Nils Hartmann** dreht sich um das Thema **GraphQL mit Java - ein praktischer Einstieg**.
 
 ### Registration
