@@ -3,7 +3,6 @@ layout: post
 title: "GraphQL mit Java - ein praktischer Einstieg"
 speaker: "Nils Hartmann"
 location: "68169 Mannheim (Details tbd)"
-state: startpage
 ---
 
 **Der Vortrag muss leider verschobenen werden!** Sobald ein neuer Termin feststeht, sagen wir Bescheid.
