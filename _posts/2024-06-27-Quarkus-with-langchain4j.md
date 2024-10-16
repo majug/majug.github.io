@@ -3,7 +3,6 @@ layout: post
 title: "Crafting intelligent applications with Quarkus"
 speaker: "Dimitris Andreadis"
 location: "Andrena Objects, EASTSITE ELYSIUM, Konrad-Zuse-Ring 23, 68163 Mannheim"
-state: startpage
 ---
 
 Unser nächster Vortrag von **Dimitris Andreadis** geht um das Thema **Crafting intelligent applications with Quarkus**: Find out how Quarkus embraces the AI/LLM universe by integrating with the popular langchain4j library.
