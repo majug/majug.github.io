@@ -3,7 +3,6 @@ layout: post
 title: "Bootiful Spring Boot 3.x"
 speaker: "Josh Long"
 location: "LivePerson, Loksite, Glücksteinallee 69, 68163 Mannheim"
-state: startpage
 ---
 
 Unser nächster Vortrag von **Josh Long** geht um das Thema Bootiful Spring Boot 3.x.
