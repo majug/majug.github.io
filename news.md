@@ -4,18 +4,18 @@ title: News
 index: 1
 ---
 
-## JavaLand 2024
+## JavaLand 2025
 
-<a href="https://www.javaland.eu"><img src="/public/img/javaland_2024.png"/></a>
+<a href="https://www.javaland.eu"><img src="/public/img/javaland_2025.png"/></a>
 
-Vom 9. bis 11. April 2024 findet die zehnte Auflage der JavaLand statt. Es erwartet Dich ein spannendes Vortragsprogramm mit internationalen Top-Rednern und eine Menge Aktivitäten von der Community. Beim anschließenden Schulungstag kannst Du Deine Kenntnisse noch etwas vertiefen. [Buche jetzt Dein Ticket](https://meine.doag.org/events/javaland/shop/).
+Vom 01. bis 03. April 2025 findet die elfte Auflage der JavaLand statt. Es erwartet Dich ein spannendes Vortragsprogramm mit internationalen Top-Rednern und eine Menge Aktivitäten von der Community. Beim anschließenden Schulungstag kannst Du Deine Kenntnisse noch etwas vertiefen. [Buche jetzt Dein Ticket](https://meine.doag.org/events/javaland/shop/).
 
 
 ## JAX | Die Konferenz für Java, Architektur- und Software-Innovation
 
 <a href="https://jax.de/mainz/"><img src="/public/img/jax.png"/></a>
 
-22&#46; – 26. April 2024 &#x007C; Mainz oder Online
+05. – 09. Mai 2025 &#x007C; Mainz oder Online
 
 ### Java-Kompetenz Stärken
 Seit mehr als 20 Jahren vermittelt die JAX wertvolles Praxis-Know-How rund um die populärste Programmiersprache der Welt. Lernen Sie von den besten Experten der Szene, wie Sie Ihre Java-Projekte zum Erfolg führen.
