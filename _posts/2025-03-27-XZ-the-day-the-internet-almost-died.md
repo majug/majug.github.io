@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When an immutable Object meets a modifiable force"
+title: "XZ: The day the internet (almost) died"
 speaker: "Reinier Zwitserloot & Roel Spilker"
 location: "andrena objects, Eastsite ELYSIUM, Konrad-Zuse-Ring 23, 68163 Mannheim"
 state: startpage
