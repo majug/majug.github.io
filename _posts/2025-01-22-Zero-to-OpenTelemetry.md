@@ -3,7 +3,6 @@ layout: post
 title: "Zero to OpenTelemetry"
 speaker: "Michele Mancioppi"
 location: "LivePerson, Loksite, Glücksteinallee 69, 68163 Mannheim"
-state: startpage
 ---
 
 Unser nächster Vortrag von **Michele Mancioppi** geht über Open Telemetry.
