@@ -6,14 +6,6 @@ index: 5
 
 ## Unterstützer und Sponsoren
 
-### techdev Solutions 
-
-<img src="/public/img/techdev-logo.png" />
-techdev stellt Essen und Getränke für unsere Vorträge und Workshops.
-
-Homepage: [https://techdev.de](https://techdev.de)<br />
-Twitter:  [@techdev_de](https://twitter.com/techdev_de)
-
 ### andrena objects 
 
 <img src="/public/img/andrena-logo.png" />
@@ -21,14 +13,6 @@ andrena objects stellt Räumlichkeiten für unsere Workshops zur Verfügung und 
  
 Homepage: [https://www.andrena.de](https://www.andrena.de)<br />
 Twitter:  [@andrenaobjects](https://twitter.com/andrenaobjects)
-
-### OIO Orientation in Objects GmbH
-
-<img src="/public/img/oio-logo.png" />
-OIO stellt regelmäßig Räumlichkeiten für unsere Workshops zur Verfügung und sorgt währenddessen für unser leibliches Wohl.
-
-Homepage: [http://www.oio.de](http://www.oio.de)<br />
-Twitter:  [@oio_braintime](https://twitter.com/oio_braintime)
 
 ### bitExpert AG
 
