@@ -8,7 +8,7 @@ state: startpage
 
 Unser nächster Vortrag von **Tom Asel** handelt von Architekturverantwortung.
 
-**Sprecher**: Tom Asel **Sprache**: Deutsch **Firma**: [LivePerson](https://www.liveperson.com/)
+**Sprecher**: Tom Asel **Sprache**: Deutsch **Firma**: [tangible concepts](https://tangible-concepts.de)
 
 ### Anmeldung
 Um uns die Planung zu erleichtern, freuen wir uns über eure Anmeldung auf unserer [Meetup-Seite](https://www.meetup.com/mannheim-java-usergroup/events/307837351/).
