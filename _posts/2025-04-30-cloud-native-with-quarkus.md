@@ -3,7 +3,6 @@ layout: post
 title: "Unleash the Power of Cloud-Native Java with Quarkus"
 speaker: "András Fejes"
 location: "LivePerson, Loksite, Glücksteinallee 69, 68163 Mannheim"
-state: startpage
 ---
 
 Unser nächster Vortrag von **András Fejes** handelt von Quarkus.
