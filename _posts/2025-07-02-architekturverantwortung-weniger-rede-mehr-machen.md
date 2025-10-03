@@ -3,7 +3,6 @@ layout: post
 title: "Architekturverantwortung: Weniger reden – mehr machen!"
 speaker: "Tom Asel"
 location: "LivePerson, Loksite, Glücksteinallee 69, 68163 Mannheim"
-state: startpage
 ---
 
 Unser nächster Vortrag von **Tom Asel** handelt von Architekturverantwortung.
