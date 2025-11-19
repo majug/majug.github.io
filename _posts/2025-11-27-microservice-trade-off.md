@@ -2,6 +2,7 @@
 layout: post
 title: "Der Microservice Trade-Off"
 speaker: "Arnold Franke"
+location: "BridgingIT GmbH, N7 5-6, 68161 Mannheim"
 state: startpage
 ---
 
@@ -13,7 +14,7 @@ Unser nächster Vortrag von **Arnold Franke** handelt von Microservices und den 
 Um uns die Planung zu erleichtern, freuen wir uns über eure Anmeldung auf unserer [Meetup-Seite](https://www.meetup.com/mannheim-java-usergroup/events/311356959/).
 
 ### Termin und Ablauf
-Der Vortrag findet am 27.11.2025 um 19:00 Uhr statt. **Der Ort steht noch nicht fest und wird rechtzeitig vor dem Talk hier mitgeteilt.**
+Der Vortrag findet am 27.11.2025 um 19:00 Uhr bei BridgingIT GmbH, N7 5-6, 68161 Mannheim statt.
 * Ab 18:30 Uhr: Einlass und Ankommen.
 * 19:00 Uhr: Vortrag.
 * 20:30 Uhr: Ende.
