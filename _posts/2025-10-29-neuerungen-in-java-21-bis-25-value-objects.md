@@ -3,7 +3,6 @@ layout: post
 title: "Die Neuerungen in Java 21 bis 25 / Value Objects"
 speaker: "Falk Sippach"
 location: "LivePerson, Loksite, Glücksteinallee 69, 68163 Mannheim"
-state: startpage
 ---
 
 Bei unserem nächsten Vortrag von **Falk Sippach** geht es um die Neuerungen in Java 21 bis 25 sowie um einen Deep Dive in Value Objects.
