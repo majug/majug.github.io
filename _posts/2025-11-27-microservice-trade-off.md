@@ -3,7 +3,6 @@ layout: post
 title: "Der Microservice Trade-Off"
 speaker: "Arnold Franke"
 location: "BridgingIT GmbH, N7 5-6, 68161 Mannheim"
-state: startpage
 ---
 
 Unser nächster Vortrag von **Arnold Franke** handelt von Microservices und den damit verbundenen Trade-Offs.
