@@ -3,7 +3,6 @@ layout: post
 title: "Workshop: Bringing AI to Java: from Function Calls to Context-Aware Applications"
 speaker: "Andras Fejes"
 location: "Technische Hochschule Mannheim, Speyerer Str. 4, 68163 Mannheim, Room A108"
-state: startpage
 ---
 
 We are looking forward to a **workshop** by **Andras Fejes** about building AI applications using **Quarkus** and **LangChain4J**.
