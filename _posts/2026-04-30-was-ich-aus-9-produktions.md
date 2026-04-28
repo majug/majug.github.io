@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Was ich aus 9 Produktionsanwendungen mit Claude Code gelernt habe"
-location: "Technische Hochschule Mannheim"
+location: "Technische Hochschule Mannheim, Gebäude A, 2. Stock, Raum A206"
 state: startpage
 ---
 
@@ -11,7 +11,7 @@ state: startpage
 Um uns die Planung zu erleichtern, freuen wir uns über eure Anmeldung auf unserer [Meetup-Seite](https://www.meetup.com/mannheim-java-usergroup/events/313901409/).
 
 ### Termin und Ablauf
-Der Vortrag findet am 30.04.2026 um 19:00 Uhr, bei [Technische Hochschule Mannheim](https://www.informatik.hs-mannheim.de/), statt.
+Der Vortrag findet am 30.04.2026 um 19:00 Uhr, bei [Technische Hochschule Mannheim](https://www.informatik.hs-mannheim.de/) (Gebäude A, 2. Stock, Raum A206), statt.
 
 * Ab 18:30 Uhr: Einlass und Ankommen.
 * 19:00 Uhr: Vortrag.
