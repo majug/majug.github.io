@@ -4,26 +4,15 @@ title: News
 index: 1
 ---
 
-## JavaLand 2025
+## Java Forum Nord 2026
 
-<a href="https://www.javaland.eu"><img src="/public/img/javaland_2025.png"/></a>
+Am **22. September 2026** findet in Hannover das
+[Java Forum Nord](https://javaforumnord.de/2026/) statt.
 
-Vom 01. bis 03. April 2025 findet die elfte Auflage der JavaLand statt. Es erwartet Dich ein spannendes Vortragsprogramm mit internationalen Top-Rednern und eine Menge Aktivitäten von der Community. Beim anschließenden Schulungstag kannst Du Deine Kenntnisse noch etwas vertiefen. [Buche jetzt Dein Ticket](https://meine.doag.org/events/javaland/shop/).
+Die von Java User Groups organisierte Community-Konferenz bietet
+Vorträge rund um Java, Softwareentwicklung und Architektur und findet
+2026 erstmals an der **Medizinischen Hochschule Hannover (MHH)** statt.
 
+Als Keynotes sind **Nora Schöner** und **Oliver Zeigermann** angekündigt.
 
-## JAX | Die Konferenz für Java, Architektur- und Software-Innovation
-
-<a href="https://jax.de/mainz/"><img src="/public/img/jax.png"/></a>
-
-05. – 09. Mai 2025 &#x007C; Mainz oder Online
-
-### Java-Kompetenz Stärken
-Seit mehr als 20 Jahren vermittelt die JAX wertvolles Praxis-Know-How rund um die populärste Programmiersprache der Welt. Lernen Sie von den besten Experten der Szene, wie Sie Ihre Java-Projekte zum Erfolg führen.
-
-### Software-Architektur Erleben
-Enterprise Java, Spring, Microservices, DevOps, Cloud – erleben Sie, wie sich technologische Neuerungen in Gesamtkontexte integrieren lassen, um nachhaltige und zukunftsfähige IT-Systeme zu bauen.
-
-### Trends Verstehen
-Was steckt hinter aktuellen Trendthemen wie JavaScript, Machine Learning, Blockchain & Serverless? Verstehen Sie die Hintergründe und lernen Sie, Innovationen gezielt in Ihren Projekten einzusetzen.
-
-Weitere Informationen zur JAX finden Sie unter: [jax.de](https://jax.de/mainz/)
+[Weitere Informationen, Programm und Tickets](https://javaforumnord.de/2026/)

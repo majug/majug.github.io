@@ -2,7 +2,6 @@
 layout: post
 title: "Was ich aus 9 Produktionsanwendungen mit Claude Code gelernt habe"
 location: "Technische Hochschule Mannheim, Gebäude A, 2. Stock, Raum A206"
-state: startpage
 ---
 
 **Sprecher**: Karsten Silz **Sprache**: Deutsch **Firma**: [atra.consulting GmbH & Co. KG](https://atra.consulting/)
