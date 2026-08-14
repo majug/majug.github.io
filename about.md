@@ -21,7 +21,8 @@ Twitter: [@jetztgradnet](https://twitter.com/jetztgradnet)
 Github: [jetztgradnet](https://github.com/jetztgradnet/)
 
 ### Gregor Trefs
-Gregor ist freiberuflicher Softwareentwickler. Sein erstes Programm war ein in BASIC geschriebenes Text Adventure. Inzwischen schreibt er Fachartikel und hält Vorträge auf Konferenzen und User Groups.
+Gregor arbeitet seit vielen Jahren in der Softwareentwicklung und beschäftigt sich heute vor allem mit Softwarearchitektur, Engineering Leadership und der Frage, wie Teams gute Software entwickeln können. Sein erstes Programm war ein in BASIC geschriebenes Text Adventure – die Begeisterung fürs Programmieren ist seitdem geblieben.
 
-Twitter: [@gtrefs](https://twitter.com/gtrefs)
+Neben seiner beruflichen Tätigkeit engagiert er sich in der Java- und Software-Craft-Community, organisiert Veranstaltungen und hält Vorträge auf Konferenzen und bei User Groups.
+
 GitHub: [gtrefs](https://github.com/gtrefs)
