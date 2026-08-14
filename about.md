@@ -20,13 +20,6 @@ Wolfgang ist sehr mehr als 20 Jahren als Software-Entwickler tätig und arbeitet
 Twitter: [@jetztgradnet](https://twitter.com/jetztgradnet)
 Github: [jetztgradnet](https://github.com/jetztgradnet/)
 
-### Walery Strauch
-
-Walery ist freiberuflicher Software-Entwickler im Umfeld von Java. Er ist ein Konferenztourist und Fan von Spring.
-
-Twitter: [@walery](https://twitter.com/walery)
-GitHub: [walery](https://github.com/walery)
-
 ### Gregor Trefs
 Gregor ist freiberuflicher Softwareentwickler. Sein erstes Programm war ein in BASIC geschriebenes Text Adventure. Inzwischen schreibt er Fachartikel und hält Vorträge auf Konferenzen und User Groups.
 
