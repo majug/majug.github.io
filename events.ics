@@ -10,58 +10,32 @@ METHOD:PUBLISH
 X-WR-CALNAME:majug
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALDESC:Kommende Termine der Mannheimer Java User Group
-{% for post in site.posts limit:10 %}{% capture cache %}
-  {% assign year = post.date | date: "%Y" %}
-  {% assign year = year | plus: 0 %}
-  {% assign month = post.date | date: "%m" %}
-  {% assign month = month | plus: 0 %}
-  {% assign day = post.date | date: "%d" %}
-  {% assign day = day | plus: 0 %}
-{% endcapture %}{% assign cache = nil %}BEGIN:VEVENT{% case year %}{% when 2019 %}{% if month == 3 and day < 31 %}
-DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
-DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
-DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z{% elsif month == 10 and day >= 27 %}
-DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
-DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
-DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z{% elsif month > 10 or month < 3 %}
-DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
-DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
-DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z{% else %}
-DTSTART:{{ post.date | date: "%Y%m%d" }}T170000Z
-DTEND:{{ post.date | date: "%Y%m%d" }}T183000Z
-DTSTAMP:{{ post.date | date: "%Y%m%d" }}T170000Z{% endif %}{% when 2018 %}{% if month == 3 and day < 25 %}
-DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
-DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
-DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z{% elsif month == 10 and day >= 28 %}
-DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
-DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
-DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z{% elsif month > 10 or month < 3 %}
-DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
-DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
-DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z{% else %}
-DTSTART:{{ post.date | date: "%Y%m%d" }}T170000Z
-DTEND:{{ post.date | date: "%Y%m%d" }}T183000Z
-DTSTAMP:{{ post.date | date: "%Y%m%d" }}T170000Z{% endif %}{% when 2017 %}{% if month == 3 and day < 26 %}
-DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
-DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
-DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z{% elsif month == 10 and day >= 29 %}
-DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
-DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
-DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z{% elsif month > 10 or month < 3 %}
-DTSTART:{{ post.date | date: "%Y%m%d" }}T180000Z
-DTEND:{{ post.date | date: "%Y%m%d" }}T193000Z
-DTSTAMP:{{ post.date | date: "%Y%m%d" }}T180000Z{% else %}
-DTSTART:{{ post.date | date: "%Y%m%d" }}T170000Z
-DTEND:{{ post.date | date: "%Y%m%d" }}T183000Z
-DTSTAMP:{{ post.date | date: "%Y%m%d" }}T170000Z{% endif %}{% else %}
-DTSTART:{{ post.date | date: "%Y%m%d" }}T190000Z
-DTEND:{{ post.date | date: "%Y%m%d" }}T203000Z
-DTSTAMP:{{ post.date | date: "%Y%m%d" }}T190000Z{% endcase %}
-UID:{{ post.date | date: "%Y%m%d" }}@majug.de
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+{% assign event_count = 0 %}{% for post in site.posts %}{% unless post.calendar == false %}{% if event_count < 10 %}{% assign event_count = event_count | plus: 1 %}{% assign event_date = post.event_date | default: post.date %}{% assign event_start_time = post.start_time | default: "190000" %}{% assign event_end_time = post.end_time | default: "203000" %}{% capture summary %}{{ post.title }}{% if post.speaker %} ({{ post.speaker }}){% endif %}{% endcapture %}BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:{{ event_date | date: "%Y%m%d" }}T{{ event_start_time }}
+DTEND;TZID=Europe/Berlin:{{ event_date | date: "%Y%m%d" }}T{{ event_end_time }}
+DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
+UID:{{ event_date | date: "%Y%m%d" }}-{{ post.slug }}@majug.de
 ORGANIZER;CN="majug² Java User Group Mannheim":MAILTO:info@majug.de
-LOCATION:{{ post.location | default: "Uni Mannheim, Raum C013, A5 6, 68161 Mannheim" }}
-SUMMARY:{{ post.title }} ({{ post.speaker }})
+{% if post.location %}LOCATION:{{ post.location }}
+{% endif %}SUMMARY:{{ summary | strip }}
 DESCRIPTION:{{ site.url }}{{ post.url }}
 URL:{{ site.url }}{{ post.url }}
 END:VEVENT
-{% endfor %}END:VCALENDAR
+{% endif %}{% endunless %}{% endfor %}END:VCALENDAR
