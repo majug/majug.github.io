@@ -6,3 +6,6 @@ _site/
 Thumbs.db
 .idea/
 *.iml
+
+# Ignore Gemfile.lock as recommended by Github Pages documentation
+Gemfile.lock
