@@ -1,7 +1,7 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      <img src="{{ site.url }}/public/img/majuglogo.png" alt="Grafik">
+      <img src="{{ site.url }}/public/img/majuglogo.png" alt="majug² Java User Group Mannheim">
       <p class="lead">{{ site.description }}</p>
     </div>
 
@@ -21,9 +21,9 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-      <a class="sidebar-nav-item" href="https://ijug.social/@majug" target="_blank" rel="me">Mastodon</a>
-      <a class="sidebar-nav-item" href="{{ site.author.twitter }}" target="_blank">Twitter</a>
-      <a class="sidebar-nav-item" href="{{ site.author.meetup }}" target="_blank">Meetup</a>
+      <a class="sidebar-nav-item" href="https://ijug.social/@majug" target="_blank" rel="me noopener">Mastodon</a>
+      <a class="sidebar-nav-item" href="{{ site.author.twitter }}" target="_blank" rel="noopener">Twitter</a>
+      <a class="sidebar-nav-item" href="{{ site.author.meetup }}" target="_blank" rel="noopener">Meetup</a>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>

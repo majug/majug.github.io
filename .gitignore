@@ -9,3 +9,7 @@ Thumbs.db
 
 # Ignore Gemfile.lock as recommended by Github Pages documentation
 Gemfile.lock
+
+# ignore local Bundler installs
+.bundle/
+vendor/

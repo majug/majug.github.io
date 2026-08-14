@@ -6,19 +6,38 @@
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
+  {% assign page_title = page.title %}
+  {% if page.title == "Home" %}
+    {% assign page_title = site.title | append: " · " | append: site.tagline %}
+  {% else %}
+    {% assign page_title = page.title | append: " · " | append: site.title %}
+  {% endif %}
+  {% assign page_description = page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 %}
+  {% assign canonical_url = page.url | replace: 'index.html', '' | absolute_url %}
+
   <title>
-    {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
-    {% else %}
-      {{ page.title }} &middot; {{ site.title }}
-    {% endif %}
+    {{ page_title | escape }}
   </title>
+  <meta name="description" content="{{ page_description | escape }}">
+  <link rel="canonical" href="{{ canonical_url }}">
+
+  <meta property="og:locale" content="de_DE">
+  <meta property="og:site_name" content="{{ site.title | escape }}">
+  <meta property="og:title" content="{{ page_title | escape }}">
+  <meta property="og:description" content="{{ page_description | escape }}">
+  <meta property="og:url" content="{{ canonical_url }}">
+  <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+  <meta property="og:image" content="{{ '/public/img/majuglogo.png' | absolute_url }}">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ page_title | escape }}">
+  <meta name="twitter:description" content="{{ page_description | escape }}">
+  <meta name="twitter:image" content="{{ '/public/img/majuglogo.png' | absolute_url }}">
 
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.url }}/public/css/poole.css">
   <link rel="stylesheet" href="{{ site.url }}/public/css/syntax.css">
   <link rel="stylesheet" href="{{ site.url }}/public/css/hyde.css">
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.url }}/public/apple-touch-icon-144-precomposed.png">

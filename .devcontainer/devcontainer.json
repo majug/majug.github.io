@@ -1,0 +1,19 @@
+{
+  "name": "majug.github.io",
+  "image": "mcr.microsoft.com/devcontainers/ruby:3.3",
+  "postCreateCommand": "bundle install",
+  "forwardPorts": [4000],
+  "portsAttributes": {
+    "4000": {
+      "label": "Jekyll",
+      "onAutoForward": "openBrowser"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "rebornix.Ruby"
+      ]
+    }
+  }
+}
