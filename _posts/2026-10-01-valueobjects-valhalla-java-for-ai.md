@@ -5,14 +5,9 @@ location: "Room S3, SAP SE, Building WDF05, Dietmar-Hopp-Allee 20, 69190 Walldor
 state: startpage
 ---
 
-**Sprecher**: Alexander Schwartz
-**Sprache**: Deutsch
-**Firma**: [SAP](https://www.ibm.com/)
-
-
 ### Termin und Ablauf
 
-Der Vortrag findet am 01.10.2016 ab 18:00 Uhr bei SAP (Room S3, SAP SE, Building WDF05, Dietmar-Hopp-Allee 20, 69190 Walldorf) statt.
+Der Vortrag findet am 01.10.2016 ab 18:00 Uhr **bei SAP in Walldorf** (Room S3, SAP SE, Building WDF05, Dietmar-Hopp-Allee 20, 69190 Walldorf) statt.
 
 * Ab 18:00 Uhr: Einlass und Ankommen
 * 19:00 Uhr: Vortrag
