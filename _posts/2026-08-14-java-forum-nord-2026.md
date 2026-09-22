@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Konferenztipp: Java Forum Nord 2026"
-state: startpage
 calendar: false
 ---
 
