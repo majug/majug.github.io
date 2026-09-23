@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vom Ingress bis zum Index: Wo verteilte Systeme unter Last brechen"
-location: "TBA"
+location: "Technische Hochschule Mannheim, Gebäude A, 2. Stock, Raum A206"
 state: startpage
 ---
 
@@ -15,7 +15,7 @@ Um uns die Planung zu erleichtern, freuen wir uns über eure Anmeldung auf unser
 
 ### Termin und Ablauf
 
-Der Vortrag findet am 22.10.2016 um 19:00 Uhr bei TBA statt.
+Der Vortrag findet am 22.10.2016 um 19:00 Uhr bei [Technische Hochschule Mannheim](https://www.informatik.hs-mannheim.de/) (Gebäude A, 2. Stock, Raum A206) statt.
 
 * Ab 18:30 Uhr: Einlass und Ankommen.
 * 19:00 Uhr: Vortrag.
