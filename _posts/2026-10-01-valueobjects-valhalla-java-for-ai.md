@@ -2,7 +2,6 @@
 layout: post
 title: "Value Objects and Project Valhalla + Java for AI"
 location: "Room S3, SAP SE, Building WDF05, Dietmar-Hopp-Allee 20, 69190 Walldorf"
-state: startpage
 ---
 
 ### Termin und Ablauf
