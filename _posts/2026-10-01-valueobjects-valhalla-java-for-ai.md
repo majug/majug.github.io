@@ -13,6 +13,7 @@ Der Vortrag findet am 01.10.2016 ab 18:00 Uhr **bei SAP in Walldorf** (Room S3, 
 * 19:00 Uhr: Vortrag
 * 21:30 Uhr: Ende
 
+The talks will also be [streamed using MS Teams](https://events.teams.microsoft.com/event/bb3ed9bd-9233-4b32-8add-6d792afa735e@42f7676c-f455-423c-82f6-dc2d99791af7).
 
 **English version/details below**
 
