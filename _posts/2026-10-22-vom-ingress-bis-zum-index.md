@@ -2,7 +2,6 @@
 layout: post
 title: "Vom Ingress bis zum Index: Wo verteilte Systeme unter Last brechen"
 location: "Technische Hochschule Mannheim, Gebäude A, 2. Stock, Raum A206"
-state: startpage
 ---
 
 **Sprecher**: Alexander Schwartz
